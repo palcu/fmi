@@ -5,8 +5,6 @@ De unde învăț:
 
 Model de subiecte:
 
-https://www.facebook.com/download/1478422669077633/Examen-LMC-7.02.2014.pdf
-
 * https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10377020_905468949483244_812756281796988338_n.jpg?oh=9237c22b647ac16f2ae8b1218c2575db&oe=54870A41
 * https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10600385_905469022816570_3750434936668528213_n.jpg?oh=06312f38e77aa302335145e6e5fb552b&oe=54937D5C&__gda__=1417876534_563e93262b7e675901b8de95689348b3
 * https://scontent-b-fra.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1601242_905469052816567_4648898337483875394_n.jpg?oh=6e5e9a457da665226d42c1d7e8d6e305&oe=5485A336
