@@ -12,3 +12,12 @@ Model de subiecte:
 * https://scontent-b-fra.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10417473_905469182816554_1678197940248656232_n.jpg?oh=499294c8d81b505f62b60f96023d5555&oe=54A37F18
 * https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1391794_905469296149876_3154859796770484656_n.jpg?oh=978a4bc22ec9d750b0a82d07d5533deb&oe=549D2000&__gda__=1419458497_e6829fec7b72789235141e8281fa5ec2
 
+Probleme rezolvate:
+
+* https://www.facebook.com/download/1480172815590533/Probleme%20LFA%20-%20II%20-%20D.C.Voinescu.pdf
+* https://www.facebook.com/download/542186402547894/probl1.7z
+
+
+Subiecte:
+
+* https://www.facebook.com/download/1478422669077633/Examen-LMC-7.02.2014.pdf
