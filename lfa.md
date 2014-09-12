@@ -1,3 +1,8 @@
+De unde învăț:
+
+* https://www.coursera.org/course/automata
+* http://www.amazon.com/Introduction-Automata-Languages-Computation-Edition/dp/0321455363
+
 Model de subiecte:
 
 * https://scontent-a-fra.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10377020_905468949483244_812756281796988338_n.jpg?oh=9237c22b647ac16f2ae8b1218c2575db&oe=54870A41
