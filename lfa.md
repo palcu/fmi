@@ -21,3 +21,10 @@ Probleme rezolvate:
 Subiecte:
 
 * https://www.facebook.com/download/1478422669077633/Examen-LMC-7.02.2014.pdf
+
+Restanta vara 2014 tura 1:
+
+1. Proprietati de inchidere ale familiei limbajelor independente de context.
+2. Se da limbajul: 
+L : { xcy | x,y (apartin) {a,b}+ , |y|a=|y|b} (apartine) {a,b,c}+
+Este L independent de context? Daca da justificati prin gramatica sau PDA, nu justificati.
