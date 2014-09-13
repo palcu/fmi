@@ -4,4 +4,6 @@ Maya Naboulsi - Nu mai stiu exact, dar la teorie a dat definitia unui subgrup no
 
 https://www.facebook.com/download/381204658694015/Examen.rar
 
+https://www.facebook.com/photo.php?fbid=656081044466818&set=p.656081044466818&type=1
+
 Curs - https://www.facebook.com/download/463092870473474/curs%20Algebra%20%2B%20tema%20dirijata%20%28part%202%29.rar
