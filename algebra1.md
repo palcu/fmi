@@ -7,3 +7,6 @@ https://www.facebook.com/download/381204658694015/Examen.rar
 https://www.facebook.com/photo.php?fbid=656081044466818&set=p.656081044466818&type=1
 
 Curs - https://drive.google.com/drive/u/0/?rfd=1#folders/0BxRj4XfPJFryRlF1c3B0bGp0Q00
+
+https://www.youtube.com/watch?v=SYnigNqUgXk&index=6&list=PL91534186D7BE336B
+https://www.youtube.com/watch?v=VsK7NF2tJ5w
