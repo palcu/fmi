@@ -6,4 +6,4 @@ https://www.facebook.com/download/381204658694015/Examen.rar
 
 https://www.facebook.com/photo.php?fbid=656081044466818&set=p.656081044466818&type=1
 
-Curs - https://www.facebook.com/download/463092870473474/curs%20Algebra%20%2B%20tema%20dirijata%20%28part%202%29.rar
+Curs - https://drive.google.com/drive/u/0/?rfd=1#folders/0BxRj4XfPJFryRlF1c3B0bGp0Q00
