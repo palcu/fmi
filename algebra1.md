@@ -10,3 +10,4 @@ Curs - https://drive.google.com/drive/u/0/?rfd=1#folders/0BxRj4XfPJFryRlF1c3B0bG
 
 https://www.youtube.com/watch?v=SYnigNqUgXk&index=6&list=PL91534186D7BE336B
 https://www.youtube.com/watch?v=VsK7NF2tJ5w
+http://math.stackexchange.com/questions/319979/how-to-write-permutations-as-product-of-disjoint-cycles-and-transpositions
