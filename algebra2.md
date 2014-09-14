@@ -13,3 +13,7 @@ https://www.dropbox.com/s/l5sujgws595vyim/alg%20sem%20de%20imprimat.rar
 Model seria 14:
 
 https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10653836_1544379155792122_1205820676275464291_n.jpg?oh=4cabdfbbfd1bc082be27e7544e795410&oe=548714BE&__gda__=1418378452_eb3b12940ffb20fb33ab9989474a609f
+
+Examen restanta 1 2014:
+
+https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10527890_804391932935910_5203716142323338628_n.jpg?oh=16f9e06104060ccf3abe722f103c2f2e&oe=549125B0&__gda__=1418074632_032a5dc0d3dc5044c268a1ee8f611334
