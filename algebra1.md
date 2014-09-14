@@ -8,6 +8,10 @@ https://www.facebook.com/photo.php?fbid=656081044466818&set=p.656081044466818&ty
 
 Curs - https://drive.google.com/drive/u/0/?rfd=1#folders/0BxRj4XfPJFryRlF1c3B0bGp0Q00
 
-https://www.youtube.com/watch?v=SYnigNqUgXk&index=6&list=PL91534186D7BE336B
-https://www.youtube.com/watch?v=VsK7NF2tJ5w
-http://math.stackexchange.com/questions/319979/how-to-write-permutations-as-product-of-disjoint-cycles-and-transpositions
+De unde poti invata:
+
+* https://www.youtube.com/watch?v=SYnigNqUgXk&index=6&list=PL91534186D7BE336B
+* https://www.youtube.com/watch?v=VsK7NF2tJ5w
+* http://math.stackexchange.com/questions/319979/how-to-write-permutations-as-product-of-disjoint-cycles-and-transpositions
+* http://www.extension.harvard.edu/open-learning-initiative/abstract-algebra
+* 
