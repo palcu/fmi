@@ -1,3 +1,5 @@
+# Seminar 1
+
 1. o matrice sortata si pe linii si pe coloane, gasitit un element in ea
 
 ```
@@ -41,3 +43,7 @@ http://www.infoarena.ro/problema/hamilton
 a) cat mai repede
 b) mergand cat mai putin
 c) asteptand cat mai putin
+
+# Seminar 2
+
+Se da un nr X, in cate moduri se pot scrie ca suma de numere naturale pozitive? Dar numere distincte?
