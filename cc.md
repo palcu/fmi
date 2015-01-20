@@ -8,8 +8,10 @@
 - [lista subiecte examen (2013)](https://www.dropbox.com/s/ainarm3xablhi9l/CC%20subiecte%20teorie.txt?dl=0)
 - [lista subiecte examen Mitrana (2014)](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
 - [lista subiecte examen Voinescu (2014)](https://plus.google.com/photos/110111587079191484355/albums/6106395225339359665?authkey=CJbTiICI-qL5KA)
+- [subiecte vechi Mitrana (2007-2009)](http://fmi.is-a-geek.net/index.php/Calculabilitate_si_complexitate_(Victor_Mitrana))
 
 # Cursuri
+- [Seminar + Curs (2013)](https://www.dropbox.com/s/bub3dlcf8kz5xkv/cc.zip?dl=0)
 - [Seminar + Curs 1-9 (2012)](https://www.dropbox.com/s/dgfj256eyqw8zw7/CC%20-%20curs%26sem%201-9.pdf?dl=0)
 - [Seminar + Curs 10-12 (2012)](https://www.dropbox.com/s/i0ujud7kz4dj8f3/CC%20-%20Curs%2010-12.pdf?dl=0)
-- [Seminar + Curs (2013)](https://www.dropbox.com/s/bub3dlcf8kz5xkv/cc.zip?dl=0)
+- [Seminar + Curs (2011)](https://github.com/aliasbind/Sesiune/tree/master/an2/sem1/CC)
