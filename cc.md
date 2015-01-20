@@ -2,7 +2,7 @@
 
 # Examen
 
-- [teoria de tocit pentru examen (2014 cred)](https://www.dropbox.com/s/mwwmedk3977l7hh/CC.pdf?dl=0) via Budiș
+- [teoria de tocit pentru examen (2014 cred)](https://www.dropbox.com/s/9ve437rxiiryk7v/CC.pdf?dl=0) via Budiș
 - [tot teorie, insa scrisa in fisiere txt (2013)](https://www.dropbox.com/sh/sp282a3cvyy65lb/AADRBPoUrqNdR9Q_C5V6E1AWa?dl=0)
 - [lista subiecte examen (2012)](https://www.dropbox.com/s/9sh5daew5bxn63e/Calculabilitate%20si%20Complexitate%20-%20Lista%20Subiecte%20ianuarie%202012.pdf?dl=0)
 - [lista subiecte examen (2013)](https://www.dropbox.com/s/ainarm3xablhi9l/CC%20subiecte%20teorie.txt?dl=0)
