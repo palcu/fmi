@@ -4,3 +4,10 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai
 
 * https://github.com/aliasbind/Sesiune
 * http://fmi.is-a-geek.net/index.php/Pagina_principal%C4%83
+
+# Unde găsesc teme?
+
+* https://github.com/palcu/homework
+* https://github.com/kitz99
+* https://github.com/tvararu/
+* https://github.com/aliasbind
