@@ -9,6 +9,7 @@
 - [lista subiecte examen Mitrana (2014)](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
 - [lista subiecte examen Voinescu (2014)](https://plus.google.com/photos/110111587079191484355/albums/6106395225339359665?authkey=CJbTiICI-qL5KA)
 - [subiecte vechi Mitrana (2007-2009)](http://fmi.is-a-geek.net/index.php/Calculabilitate_si_complexitate_(Victor_Mitrana))
+- [seminarii rezolvate si explicate de profa de seminar Maria Negru (2014)](https://www.dropbox.com/s/kqks970v7clpo0s/C%26C%20-%20explicatii%20exercitii%20%28seminarele%201-5%29.pdf?dl=0)
 
 # Cursuri
 - [Seminar + Curs (2013)](https://www.dropbox.com/s/bub3dlcf8kz5xkv/cc.zip?dl=0)
