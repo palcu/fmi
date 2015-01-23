@@ -23,7 +23,6 @@
 
 * Teorie: subiectul 5 din lista lui (*)
 * Practică: să se explice o mașină Turing care verifică dacă un număr primit în baza 1, este palindrom în baza 2 (pe o singură bandă)
-* 
 
 # Subiecte test final seminar (Maria Negru 2014)
 
