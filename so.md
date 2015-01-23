@@ -33,4 +33,4 @@ Subiecte SO de azi:
 * [cursul de la Poli](http://ocw.cs.pub.ro/courses/so) e mult mai bun dacă vrei să înveți ceva
 * [o grămadă](https://hn.algolia.com/?query=operating%20system&sort=byPopularity&prefix&page=0&dateRange=all&type=story) de URL-uri și discuții despre sisteme de operare
 
-[Aici](https://www.dropbox.com/sh/zgehw54xqqt2yy9/AABeq3DIgWz0wldQ09BrTfq_a?dl=0) e adresa cu întreg folderul.
+[Aici](https://www.dropbox.com/sh/n8107fznkb8zboa/AABennEy8Xg7mbWB-DtGBA6Ma?dl=0) e adresa cu întreg folderul.
