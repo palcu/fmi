@@ -11,6 +11,8 @@ Subiecte SO de azi:
 - functie care sa calculeze nr de aparitii al unui sir intr-un fisier
 ```
 
+[Poză](https://www.dropbox.com/s/1cn4wu5n8kv5frw/subiect_examen_2015.jpg?dl=0) cu subiectele via Theodor Stanbeca
+
 ## Alte subiecte
 
 * [subiecte examen 2013](https://www.dropbox.com/s/ll82pfkopgi3q57/subiecte_examen_2013.txt?dl=0)
