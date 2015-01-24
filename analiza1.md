@@ -1,6 +1,4 @@
-https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM/0BxRj4XfPJFryNHFINXJlc19oUm8
-
-# Ceva modele
+# Modele de examen
 
 Teorie (45 min): 
 ----------------
@@ -23,4 +21,8 @@ xn = 2^n * n! / n^n.
 
 3. Determinati aderenta multimii A=(-2,3]
 
-https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230
+[Altele mai vechi](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
+
+# Curs + seminar
+
+[Scris chiar foarte frumos](https://www.dropbox.com/s/a79ly2rdl04mdl4/analizamatematicaanul1sem1.pdf?dl=0)
