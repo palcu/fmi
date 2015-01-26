@@ -1,4 +1,4 @@
-# Listă de cursuri, seminarii și modele de examen
+# Listă de cursuri, seminarii și modele de examen pentru Facultatea de Matematică și Informatică
 
 Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai bune două resurse în afară de wiki-ul meu mai sunt:
 
