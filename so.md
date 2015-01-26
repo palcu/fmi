@@ -1,5 +1,22 @@
 # Subiecte Examen
 
+## Andrei Barange grupa 234 (2014)
+
+```
+Subiecte SO 234:
+
+1. Signatura apelului sistemului unix princare se citesc date dintr-un fisier;
+2. Se considera variabilele:
+- int a,b;
+Scrieti o secventa de cod care interschimba valorile celor doua variabile fara a folosi o variabila auxiliara.
+3. Enuntati problema filozofilor;
+4. Enumerati tipurile de IPC SystemV;
+5. Scrieti o functie c int myfunc(int semid, void (*f)());
+care apeleaza functia data de f decrementand in prealabil semaforul cu identificatorul intern dat de semid., dupa apel, incrementeaza semaforul. Se returneaza 0 in caz de succes si -1 in caz de eroare.
+6. Scrieti o functie c int myfunc(char *fis, char *s, int nr);
+care creaza fisierul cu numele dat de fis si il umple cu valorile lui s de nr ori. In caz de eroare se returneaza -1 si 0 in caz de succes.
+```
+
 ## Andrei Baranga seria 24 (2014)
 
 ```
