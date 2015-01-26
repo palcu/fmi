@@ -10,7 +10,7 @@
 
 ## Detalii despre examen (via Omulet Enervant)
 
-> Detalii despre examenul la Geometrie Computationala, seria 24:
+Detalii despre examenul la Geometrie Computationala, seria 24:
 Again, nu garantez ca sunt corecte sau ca proful nu se razgandeste.
 
 Evaluare:
