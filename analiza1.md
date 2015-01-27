@@ -1,4 +1,4 @@
-# Modele de examen
+# Model de examen
 
 Teorie (45 min): 
 ----------------
@@ -23,6 +23,6 @@ xn = 2^n * n! / n^n.
 
 [Altele mai vechi](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
 
-# Curs + seminar
+# Cursuri
 
-[Scris chiar foarte frumos](https://www.dropbox.com/s/a79ly2rdl04mdl4/analizamatematicaanul1sem1.pdf?dl=0)
+- [Curs + seminar (2012)](https://www.dropbox.com/s/a79ly2rdl04mdl4/analizamatematicaanul1sem1.pdf?dl=0)
