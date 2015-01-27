@@ -11,8 +11,7 @@
 
 # Cursuri
 - [Seminar + Curs (2013)](https://www.dropbox.com/s/bub3dlcf8kz5xkv/cc.zip?dl=0)
-- [Seminar + Curs 1-9 (2012)](https://www.dropbox.com/s/dgfj256eyqw8zw7/CC%20-%20curs%26sem%201-9.pdf?dl=0)
-- [Seminar + Curs 10-12 (2012)](https://www.dropbox.com/s/i0ujud7kz4dj8f3/CC%20-%20Curs%2010-12.pdf?dl=0)
+- [Seminar + Curs 1-9 (2012)](https://www.dropbox.com/s/dgfj256eyqw8zw7/CC%20-%20curs%26sem%201-9.pdf?dl=0) și [10-12 (2012)](https://www.dropbox.com/s/i0ujud7kz4dj8f3/CC%20-%20Curs%2010-12.pdf?dl=0)
 - [Seminar + Curs (2011)](https://github.com/aliasbind/Sesiune/tree/master/an2/sem1/CC)
 - [Curs 2008](https://www.dropbox.com/sh/nil9fllldfc1rln/AACPaV0R49kuMyRtQYkQyYYza?dl=0)
 - [teoria de tocit pentru examen (2014 cred)](https://www.dropbox.com/s/9ve437rxiiryk7v/CC.pdf?dl=0) via Budiș
