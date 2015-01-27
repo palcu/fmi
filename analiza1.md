@@ -1,4 +1,8 @@
-# Model de examen
+# Analiza - Iliaș
+
+## Examen
+
+### Model de examen [(2008)](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
 
 Teorie (45 min): 
 ----------------
@@ -21,8 +25,6 @@ xn = 2^n * n! / n^n.
 
 3. Determinati aderenta multimii A=(-2,3]
 
-[Altele mai vechi](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
-
-# Cursuri
+## Cursuri
 
 - [Curs + seminar (2012)](https://www.dropbox.com/s/a79ly2rdl04mdl4/analizamatematicaanul1sem1.pdf?dl=0)
