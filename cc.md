@@ -6,7 +6,7 @@
 - [tot teorie, insa scrisa in fisiere txt (2013)](https://www.dropbox.com/sh/sp282a3cvyy65lb/AADRBPoUrqNdR9Q_C5V6E1AWa?dl=0)
 - [lista subiecte examen (2012)](https://www.dropbox.com/s/9sh5daew5bxn63e/Calculabilitate%20si%20Complexitate%20-%20Lista%20Subiecte%20ianuarie%202012.pdf?dl=0)
 - [lista subiecte examen (2013)](https://www.dropbox.com/s/ainarm3xablhi9l/CC%20subiecte%20teorie.txt?dl=0)
-- [lista subiecte examen Mitrana (2014)](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)*
+- [lista subiecte examen Mitrana (2014)](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
 - [lista subiecte examen Voinescu (2014)](https://plus.google.com/photos/110111587079191484355/albums/6106395225339359665?authkey=CJbTiICI-qL5KA)
 - [subiecte vechi Mitrana (2007-2009)](http://fmi.is-a-geek.net/index.php/Calculabilitate_si_complexitate_(Victor_Mitrana))
 - [seminarii rezolvate si explicate de profa de seminar Maria Negru (2014)](https://www.dropbox.com/s/kqks970v7clpo0s/C%26C%20-%20explicatii%20exercitii%20%28seminarele%201-5%29.pdf?dl=0)
@@ -22,7 +22,7 @@
 
 ## Victor Mitrana (2014)
 
-* Teorie: subiectul 5 din lista lui (*)
+* Teorie: subiectul 5 din [lista lui](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
 * Practică: să se explice o mașină Turing care verifică dacă un număr primit în baza 1, este palindrom în baza 2 (pe o singură bandă)
 
 # Subiecte test final seminar (Maria Negru 2014)
