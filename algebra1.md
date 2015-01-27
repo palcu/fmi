@@ -19,4 +19,4 @@
 * https://www.youtube.com/watch?v=VsK7NF2tJ5w
 * http://math.stackexchange.com/questions/319979/how-to-write-permutations-as-product-of-disjoint-cycles-and-transpositions
 * http://www.extension.harvard.edu/open-learning-initiative/abstract-algebra
-* cartea lui Dumitrescu
+* [cartea lui Dumitrescu](https://www.dropbox.com/s/x7isnbcr3rjo4dh/Dumitrescu%20T.%20-%20Algebra%201%20%282006%29.pdf?dl=0)
