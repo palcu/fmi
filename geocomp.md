@@ -7,6 +7,7 @@
 ## Subiecte
 
 - [model de examen](https://www.dropbox.com/s/6bhl9zj8r887l64/231-geom-comp-exam.txt?dl=0)
+- [model de examen](https://www.dropbox.com/sh/2pr9ofq998vgyq0/AADaMvUwXA_VLOYZBVG8V-1Ua?dl=0) via Iulia Duta
 
 ## Detalii despre examen (via Omulet Enervant)
 
