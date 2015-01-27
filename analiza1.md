@@ -5,7 +5,6 @@
 ### Model de examen [(2008)](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
 
 Teorie (45 min): 
-----------------
 
 1. Definiti relatia de ordine
 2. Definiti vecinatatea intr-un spatiu topologic
@@ -15,7 +14,6 @@ Teorie (45 min):
 
 
 Exercitii (45 min):
--------------------
 
 1. Calculati limita sirului:
 xn = n^4 / (2n)!
