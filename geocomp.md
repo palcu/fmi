@@ -9,6 +9,25 @@
 - [model de examen](https://www.dropbox.com/s/6bhl9zj8r887l64/231-geom-comp-exam.txt?dl=0)
 - [model de examen](https://www.dropbox.com/sh/2pr9ofq998vgyq0/AADaMvUwXA_VLOYZBVG8V-1Ua?dl=0) via Iulia Duta
 
+## Model Examen
+
+```
+Andrei Alexandru Aldea 
+1.produs vectorial
+2.am uitat
+3.dualitate 2 puncte, una sa arati ca daca o dreapta trece prin 2 puncte (iti dadea punctele si dreapta) ca in dual o sa ai tot o dreapta duala sa fie intersectia punctelor duale, si mai era o figura duala la ce iti zicea el
+4.complexitate algebrica (daca ai un triunghi abc si o dreapta d , a. intersectia cu triunghiu a dreptei d, b. daca dreapta d trece prin centru de greutate)
+5.complexitate timp la algoritmu lu fortune (ala cu linia de baleiere cu intersectie, intreba care e complexitatea pentru procesarea siturilor)
+6.un algoritm care consta intr-un singur if (5 linii de cod practic)
+6(edit):aveai 6 puncte A(1,1), B(1,-1), C(-1,-1), D(-1,1), E(0,-2) si M(0,x) si x varia M e practic orice punct de pe oy, si te punea sa scrii un program care pt orice x primit sa scrii cate triunghiuri sunt in triangularea figurii asteia si cate muchii
+
+Alexandra Vodă 
+La celalalt exercitiu iti zicea sa dai coordonatele unei multimi de puncte pentru care daca aplicai graham's scan pentru aflarea limitei superioare obtineai maxim 6 puncte pe frontiera si in final frontiera limitei superioare avea doar 3 puncte.
+
+Alexandra Vodă 
+Si la ultimul exercitiu iti dadea 5 puncte cu coordonate specificare si un al 6-lea punct de coordonate (0, alfa) si trebuia sa spui cate muchii si triunghiuri are triangularea acelei multimi de 6 puncte, in functie de valoarea lui alfa.
+```
+
 ## Detalii despre examen (via Omulet Enervant)
 
 Detalii despre examenul la Geometrie Computationala, seria 24:
