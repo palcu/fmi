@@ -1,6 +1,6 @@
 # Subiecte Examen
 
-## Andrei Baranga grupa 231 (2014)
+## Andrei Baranga grupa 241 (2014)
 
 ```
 1. Dacă o pagină are 512 octeți, câte pagini sunt în 1MB?
