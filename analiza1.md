@@ -2,6 +2,12 @@
 
 ## Examen
 
+### Examen 2014 via Ciprian Olariu
+
+> la teorie a dat cica "la nr 1: punct izolat, serie convergenta, f contiuna si de dem ca orice f continua e marginita si isi atinge marginile "
+
+Și [problemele](https://www.dropbox.com/s/ahir3m11lctiamu/subiect_2014.jpg?dl=0).
+
 ### Model de examen [(2008)](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
 
 Teorie (45 min): 
