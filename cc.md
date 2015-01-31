@@ -27,3 +27,19 @@
 ### Subiecte test final seminar (Maria Negru 2014)
 
 * descrie o mașină Turing,  unde primești `a, b, c` în ordine crescătoare, de verificat daca a^2 + b^2 = c^2
+
+### Daniel Voinescu (2014)
+
+```
+au fost 2 variante de examen
+a teorie a dat subiectul 2 din alea propuse
+prima a fost teorie + un ex
+teoria a fost functii recursive, functii calculabile cu programe standard, funcii turing calculabile
+si ex a fost sa descrii o MT care accepta cuvinte de forma a ^ 3 ^k si b ^ 3 ^ k
+practic ti se zicea sa descrii ( nu sa faci grafic ci doar sa pov cam cum ar merge) o MT care accepta cuv de forma aia
++ MT trebuia sa aiba o singura banda si sa accepte cuvintele in O(n*logn)
+si sa arg complex timp si sp
+si varianta a 2-a de examen
+era acelasi ex ca asta de mai sus + reprez lui grafica(stari , tranzitii, etc)
+```
+via Daniel Radu
