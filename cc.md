@@ -42,4 +42,4 @@ si sa arg complex timp si sp
 si varianta a 2-a de examen
 era acelasi ex ca asta de mai sus + reprez lui grafica(stari , tranzitii, etc)
 ```
-via Daniel Radu
+via [Daniel Radu](https://github.com/TwoOfDiamonds)
