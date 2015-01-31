@@ -6,3 +6,9 @@
 - [problemele](https://www.dropbox.com/sh/xiyscl3fcpdyn1a/AAAGO50y1QrouFBOgtw9HFxCa?dl=0) de la primele două laboratoare scrise de mine
 - [laboratoare](https://www.dropbox.com/sh/9m795e3nn8eh83e/AACG5zBotB5utC61OCdkpZqqa?dl=0) scrise de Dayanna Amegică
 - [Curs 2014](https://www.dropbox.com/s/iwz4iudiys9j0jd/Probabilitati%20si%20statistica.pdf?dl=0) via Iulia Duță
+
+## Model de examen
+
+> Am avut ceva foarte banal la probabilitati, iar la statistica... limbi straine (intervale de incredere pt m, parca, si o aporix. de verosimiliate maxima si inca ceva...)! Ni s-a dat fiecaruia cate un nr care desemna valoarea unui parametru intalnit in probleme. La primul exercitiu aveai un caz simplu caruia trebuia sa-i definesti campul de probabilitate si sa operezi pe multimi, la al doilea o repartitie discreta si la al treilea una continua. Oricum, notarea a fost foarte ok si nu trebuie sa va demoralizati. Aveti voie si cu laptopuri; scrieti tot ce vi se pare ca pica pe subiect 
+
+Nazare Karina
