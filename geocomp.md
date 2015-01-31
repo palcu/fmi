@@ -8,8 +8,9 @@
 
 - [model de examen](https://www.dropbox.com/s/6bhl9zj8r887l64/231-geom-comp-exam.txt?dl=0)
 - [model de examen](https://www.dropbox.com/sh/2pr9ofq998vgyq0/AADaMvUwXA_VLOYZBVG8V-1Ua?dl=0) via Iulia Duta
+- [model de examen (2014)](https://plus.google.com/photos/110111587079191484355/albums/6110515967901809441?authkey=CJXl8r34lpHAIw) seria 24 scrise de mine
 
-## Model Examen
+### Model Examen seria 23 (2014)
 
 ```
 Andrei Alexandru Aldea 
