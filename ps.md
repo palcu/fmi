@@ -22,4 +22,6 @@ sa fie densitatea de repartitie a unei v. a. X. Pentru a astfel determinat, calc
 4) Pentru repartitia binomiala de parametri i si p, sa se determine EVM pentru Theta = p.
 5) 4 vlori de selectie: 1,2,3,i+3 sunt observate intr-o repartitie normala de medie necunoscuta m si dispersie necunoscuta phi^2. Sa se determine intervalul de incredere 90% pentru m.
 6) Fie setul de 5 valori de selectie: 1,2,3,i+3,99 din populatia X. Testati ipoteza ca X are o repartitie uniforma pe intervalul [0, 100] la nivelul de semnificatie de 1%.
+
+i-ul este un parametru unic pentru fiecare student. Eu de exemplu am avut 55.
 ```
