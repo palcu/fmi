@@ -32,3 +32,4 @@ Si ZxZ nu e ciclic de demonstrat
 * http://www.extension.harvard.edu/open-learning-initiative/abstract-algebra
 * [cartea lui Dumitrescu](https://www.dropbox.com/s/x7isnbcr3rjo4dh/Dumitrescu%20T.%20-%20Algebra%201%20%282006%29.pdf?dl=0)
 * [cele mai bune PDF-uri unde sunt explicate ca pentru proști](http://maths.mq.edu.au/~chris/notes/third_groups.html)
+* https://www.youtube.com/user/alisonandmatt/playlists
