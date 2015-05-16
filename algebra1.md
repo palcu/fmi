@@ -4,6 +4,7 @@
 
 * [Curs 2014 PDF-uri Mincu](https://www.dropbox.com/sh/03kgo5pwmnj6v63/AACG3WcS6MKTuTGD_9-49oFPa?dl=0)
 * [Lista lucruri de învățat](https://www.dropbox.com/s/na5hnrma19aga3n/lista_de_invatat.pdf?dl=0)
+* [Seminari](https://www.dropbox.com/s/rjxl3vhif32o8u9/seminarii.zip?dl=0) - găsite de Alex Petrache pe net
 
 ## Subiecte de examen
 
