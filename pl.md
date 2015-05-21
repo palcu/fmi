@@ -1,4 +1,4 @@
-# Programare Logică
+# Programare Logică - Emil Căzănescu
 
 ## Seminar Traian Șerbănuță
 
