@@ -7,7 +7,7 @@
 2. Care sunt politicile de înlocuire ale paginilor?
 3. Ce este fragmentarea discului?
 4. Care sunt părțile componente ale unui hard disk?
-5. Scrieti o functie în C `int myFunct(char *dir)` care returneaza suma fișierelor din acel director.
+5. Scrieti o functie în C `int myFunct(char *dir)` care returneaza suma mărimilor fișierelor din acel director.
 6. Scrieți o funcție în C `int myFunct(char *fis)` care citește acel fișier și scrie un număr de octeți astfel încât mărimea acelui fișier modulo 256 să fie 0.
 ```
 
