@@ -11,6 +11,8 @@
 6. Scrieți o funcție în C `int myFunct(char *fis)` care citește acel fișier și scrie un număr de octeți astfel încât mărimea acelui fișier modulo 256 să fie 0.
 ```
 
+[Solutii](https://github.com/palcu/homework/blob/master/so/examen-2014-grupa-241/pr5.c).
+
 ## Andrei Baranga grupa 234 (2014)
 
 ```
@@ -40,6 +42,8 @@ Subiecte SO de azi:
 ```
 
 [Poză](https://www.dropbox.com/s/1cn4wu5n8kv5frw/subiect_examen_2015.jpg?dl=0) cu subiectele via Theodor Stanbeca
+
+[Solutii](https://github.com/palcu/homework/tree/master/so/examen-2014-seria-24)
 
 ## Alte subiecte
 
