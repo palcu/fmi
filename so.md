@@ -1,6 +1,14 @@
-# Subiecte Examen
+# Sisteme de Operare - Andrei Baranga
 
-## Andrei Baranga grupa 241 (2014)
+## Seria 23 restanță 06.02.2015
+
+1. Numiți o extensie de arhive.
+2. Numiți cele 3 feluri de permisii ale fișierelor.
+3. Numiți 4 apeluri de sistem.
+4. Scrieți o funcție `int myFunct(int *pid, int *sig, int n)`, în care ambii vectori sunt de lungime n, primul reprezintă o listă de identificatori de procese, al doilea reprezintă o listă de semnale. Pentru fiecare proces `i` din `pid`, trimiteți semnalul `i` din `sig`. Dacă unul dintre apeluri nu a mers, returnați numărul de semnale care au fost trimise. Dacă toate au mers, returnați `n`.
+5. Scrieți o funcție `int myFunct(key_t cheie, void (*f)())` care primește cheia de la un semafor și o funcție. Decrementați semaforul, apelați funcția, incrementați la loc. Dacă nu a mers vreun apel, returnează -1, altfel return 0.
+
+## grupa 241 (2014)
 
 ```
 1. Dacă o pagină are 512 octeți, câte pagini sunt în 1MB?
@@ -13,7 +21,7 @@
 
 [Solutii](https://github.com/palcu/homework/blob/master/so/examen-2014-grupa-241/pr5.c).
 
-## Andrei Baranga grupa 234 (2014)
+## grupa 234 (2014)
 
 ```
 Subiecte SO 234:
@@ -30,7 +38,7 @@ care apeleaza functia data de f decrementand in prealabil semaforul cu identific
 care creaza fisierul cu numele dat de fis si il umple cu valorile lui s de nr ori. In caz de eroare se returneaza -1 si 0 in caz de succes.
 ```
 
-## Andrei Baranga seria 24 (2014)
+## seria 24 (2014)
 
 ```
 Subiecte SO de azi:
@@ -40,6 +48,8 @@ Subiecte SO de azi:
 - o problema cu semnale
 - functie care sa calculeze nr de aparitii al unui sir intr-un fisier
 ```
+
+## Grupa 234 2015
 
 [Poză](https://www.dropbox.com/s/1cn4wu5n8kv5frw/subiect_examen_2015.jpg?dl=0) cu subiectele via Theodor Stanbeca
 
