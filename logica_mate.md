@@ -1,4 +1,4 @@
-# Logica Matematica - Muresan
+# Logica Matematica - Ioana Leuștean
 
 ## Subiecte
 
