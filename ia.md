@@ -1,4 +1,4 @@
-# Inteligență Artificială
+# Inteligență Artificială - Denis Enăchescu
 
 ## Curs
 
@@ -12,3 +12,15 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). �
 ## Teste de laborator
 
 [Aici](https://github.com/palcu/homework/tree/master/ia).
+
+# Florentina Hristea
+
+```
+Examen Hristea IA : (08.06.2015)
+1. Alpha beta prezentare generala cu exemplu si implementare cu justificare
+2.a)euristica pt canibali si misionari cu inplementare a euristicii in prolog
+b) se da o lista de intrare cu nunere, sa se calculeze suma a doua cate doua elemente pozitive (pt fiecare doua nr se pune suma lor ca un element in noua lista)
+c) sa se calc suma elem dintr-un arbore situate la nivel impar (arbore binar)
+```
+
+via Valentin Popescu
