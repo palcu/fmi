@@ -1,5 +1,9 @@
 # Inteligență Artificială - Denis Enăchescu
 
+## Examen
+
+[07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
+
 ## Curs
 
 Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile, că ai voie cu ele la examen.
