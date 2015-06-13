@@ -1,5 +1,9 @@
 # Programare Logică - Victor Emil Căzănescu
 
+Dacă ai ajuns pe pagina asta și încă faci PL cu VEC și vrei să treci, atunci ai tot respectul meu.
+
+https://www.facebook.com/programaredeclarativa
+
 ## Exemple examen
 
 * 06.2015 grupa 231: "Teorema teoremelor - 9.4" si "Herbrand". [Poza](https://www.dropbox.com/s/tq2loj2jatxiziw/subiecte_231.jpg?dl=0) cu subiectele.
