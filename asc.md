@@ -1,5 +1,7 @@
 # Arhitectura Sistemelor de Calcul - Daniel Dragulici
 
+https://www.facebook.com/pages/Dragulici-te-invata-sa-programezi/663639480337161
+
 ## Cursuri
 
 * [via Simon Costea](https://www.dropbox.com/sh/0qguizsr81fq3wb/AAAiW5RvqL05leoS0bwI4AOFa?dl=0)
