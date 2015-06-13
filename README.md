@@ -3,7 +3,7 @@
 Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai bune resurse în afară de wiki-ul meu mai sunt:
 
 * https://github.com/aliasbind/Sesiune
-* http://fmi.is-a-geek.net/index.php/Pagina_principal%C4%83
+* http://fmi.is-a-geek.net/ - am făcut și un [mirror](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0) în caz că pică site-ul
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
 
 # Unde găsesc teme?
