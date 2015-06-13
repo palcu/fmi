@@ -1,18 +1,26 @@
-https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM
+# Analiza 2 - Petre Ilias
 
-### Ilias subiecte restanta 2014
+- Tot [folderul](https://www.dropbox.com/sh/77adtx8z6bd1unl/AACX0ZPww_hMLRA5WwvPebZja?dl=0) de subiecte via Laura Raileanu.
+- [Drive-ul](https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM) lui Stefan Niculae
 
-https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/10620735_799378723437231_1248000857725589706_n.jpg?oh=48bb0814b33864483ff4432959c27359&oe=548D95A4&__gda__=1417987730_1c26ac2e646ddc9bf35b30df766f6e2a
+### 08.06.2015
 
+> la exercitii nr1 (nr2 e asemanator) : 1. pentru f(x,y) = (x^3 * y) / (x^2 + y^2) studiati unde e diferentiabila si studiati daca e diferentiabila de doua ori in (0,0)  2. studiati convergenta si uniform convergenta sirului de functii fn = sqrt(x^2 + 1/n) - x pe [0, infinit]  3. aflati multimea de convergenta pentru seria de puteri (1 * 3 * ... * (2n-1)) / (2 * 4 * .... * (2n))  * (1/(2n + 1)) * (x^n)
+> la nr2 la exercitii la 1. functia era (y^3 * x)/ (x^2 + y^2) , la 2. era fn(x) = x^n * (1 - x^(2n)) pe [0,1] cred, la 3. fractia aia lunga era cu numerele de forma 3n si 3n-1 sau ceva de genul cu multiplii de 3 si lipsea fractia aia 1/(2n+1)
+
+via Ciprian Olariu
+
+### Subiecte restanta 2014
+
+```
 Fermat 
 Local integrabila 
 Sir uniform convergent 
 Criteriul lui lesbegue 
 Funcție diferentiabila
+```
 
-### Ilias subiecte sesiune 2014
-
-https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/p600x600/10353522_758379407517422_7817945000451248708_o.jpg
+### Subiecte sesiune 2014
 
 Teorie:
 
@@ -26,7 +34,3 @@ demonstratie
 - o fctie monotona este integr riemann
 ( + evident enuntat crit darboux pt integr riemann)
 ```
-
-### Mihail:
-
-https://www.dropbox.com/sh/3bm20efh0sdx3yv/AAA8TTOJthKkMKdOG2dv7j7va?dl=0
