@@ -1,4 +1,11 @@
-# Programare Logică - Emil Căzănescu
+# Programare Logică - Victor Emil Căzănescu
+
+## Exemple examen
+
+* 06.2015 grupa 231: "Teorema teoremelor - 9.4" si "Herbrand". [Poza](https://www.dropbox.com/s/tq2loj2jatxiziw/subiecte_231.jpg?dl=0) cu subiectele.
+* 06.2015 grupa 233: "Propozitia 7.4" si "Ceva cu ce sunt solutiile" (cursul 13)
+* [lista de teorie veche](https://www.dropbox.com/s/gsxtvnwvthp0ql2/teorie%20PL.jpg?dl=0)
+* http://fmi.is-a-geek.net/index.php/Programare_logica_%28Emil_Cazanescu%29
 
 ## Seminar Traian Șerbănuță
 
@@ -22,7 +29,3 @@ Probleme de la testul de seminar:
 * http://en.wikipedia.org/wiki/Signature_%28logic%29
 * http://en.wikipedia.org/wiki/Term_algebra
 * http://en.wikipedia.org/wiki/Universal_algebra
-
-## Exemple examen
-
-* http://fmi.is-a-geek.net/index.php/Programare_logica_%28Emil_Cazanescu%29
