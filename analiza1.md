@@ -2,6 +2,12 @@
 
 ## Examen
 
+### 08.06.2015
+
+> la exercitii nr1 (nr2 e asemanator) : 1. pentru f(x,y) = (x^3 * y) / (x^2 + y^2) studiati unde e diferentiabila si studiati daca e diferentiabila de doua ori in (0,0)  2. studiati convergenta si uniform convergenta sirului de functii fn = sqrt(x^2 + 1/n) - x pe [0, infinit]  3. aflati multimea de convergenta pentru seria de puteri (1 * 3 * ... * (2n-1)) / (2 * 4 * .... * (2n))  * (1/(2n + 1)) * (x^n)
+
+> la nr2 la exercitii la 1. functia era (y^3 * x)/ (x^2 + y^2) , la 2. era fn(x) = x^n * (1 - x^(2n)) pe [0,1] cred, la 3. fractia aia lunga era cu numerele de forma 3n si 3n-1 sau ceva de genul cu multiplii de 3 si lipsea fractia aia 1/(2n+1)
+
 ### Examen 2014 via Ciprian Olariu Grupa 135
 
 ```
