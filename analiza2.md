@@ -3,7 +3,7 @@
 - Tot [folderul](https://www.dropbox.com/sh/77adtx8z6bd1unl/AACX0ZPww_hMLRA5WwvPebZja?dl=0) de subiecte via Laura Raileanu.
 - [Drive-ul](https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM) lui Stefan Niculae
 
-### Subiecte Grupa 135
+### Subiecte Grupa 135 07.06.2015
 
 > Teorie nr1: definiti functia diferentiabila intr-un punct, functia concava si serie de functii uniform convergenta + demonstrati ca orice functie monotona pe [a,b] e integrabila
 
