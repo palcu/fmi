@@ -6,6 +6,7 @@ https://www.facebook.com/programaredeclarativa
 
 ## Exemple examen
 
+* 14.06.2015 grupa 234: congruenta semantica si 13.1
 * 06.2015 grupa 231: "Teorema teoremelor - 9.4" si "Herbrand". [Poza](https://www.dropbox.com/s/tq2loj2jatxiziw/subiecte_231.jpg?dl=0) cu subiectele.
 * 06.2015 grupa 233: "Propozitia 7.4" si "Ceva cu ce sunt solutiile" (cursul 13)
 * [lista de teorie veche](https://www.dropbox.com/s/gsxtvnwvthp0ql2/teorie%20PL.jpg?dl=0)
