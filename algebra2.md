@@ -1,3 +1,7 @@
+# Algebra 2 - Baetica si Vladoiu
+
+[Multe chestii](https://www.dropbox.com/sh/1v9hqbp5vll9kse/AACgrnYqTGZX11O7g72R3_S0a?dl=0)
+
 https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM/0BxRj4XfPJFryRTczYUg3LVA2ODg
 
 https://scontent-a-fra.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/10629789_276370729229091_747823623724305909_n.jpg?oh=0a72f53ef6d8af1eced82542359ce12b&oe=54927838
