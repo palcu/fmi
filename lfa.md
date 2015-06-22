@@ -22,3 +22,4 @@ Probleme rezolvate:
 
 * https://www.coursera.org/course/automata
 * http://www.amazon.com/Introduction-Automata-Languages-Computation-Edition/dp/0321455363
+* lema de pompare - https://www.youtube.com/watch?v=g4e2RElzCSQ
