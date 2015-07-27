@@ -3,6 +3,7 @@
 - [chestii găsite de Iulia Duță](https://www.dropbox.com/sh/ghdn5mr9jfhg69x/AADMq4rG0cfzCBqCnMN3hAOxa?dl=0)
 - [chestii gasite de Vlad Florescu](https://www.dropbox.com/sh/mbmgt45xzbts018/AAB40EK2w2gsLRBDLQKwLcjda?dl=0)
 - recomand sa bagi [laboratoarele](https://www.dropbox.com/sh/3lgxzzs2993ysut/AADDJ2WdVmPBN1X183RJxziNa?dl=0) cu cod
+- parte din ce s-a lucrat la laborator de unele semi-grupe( pe schema HR) se gaseste [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/BazeDeDate)
 - apoi uita-te peste [recapitulare](https://www.dropbox.com/sh/r7cfhcptpss3vz4/AAArjZEhmQeyNNLjqDhOpPFfa?dl=0)
 
 ## Exemple examen
