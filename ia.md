@@ -23,6 +23,8 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). È
 
 Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](http://vladionescu.me/ia.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/IA.md).
 
+Seminarul se gaseste online [aici](http://vladionescu.me/seminar.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/seminar.md). Sunt explicate bazele Prolog si sunt facute cateva exercitii.
+
 ##Examen
 
 ```
@@ -32,6 +34,9 @@ Examen Hristea IA : (08.06.2015)
 b) se da o lista de intrare cu nunere, sa se calculeze suma a doua cate doua elemente pozitive (pt fiecare doua nr se pune suma lor ca un element in noua lista)
 c) sa se calc suma elem dintr-un arbore situate la nivel impar (arbore binar)
 ```
+via Valentin Popescu
+
+
 
 ```
 Examen Hristea IA : (09.06.2015)
@@ -40,5 +45,3 @@ Examen Hristea IA : (09.06.2015)
 
 2. Exercitii pe care nu mi le amintesc.
 ```
-
-via Valentin Popescu
