@@ -26,3 +26,5 @@ Majoritatea subiectelor și materialelor au fost adunate de pe diferite grupuri 
 * [FMI 2012](https://www.facebook.com/groups/fmi2012/)
 * [FMI-UB/INFO/2013-2016](https://www.facebook.com/groups/fmi.ub.info/)
 * [FMI-UB/INFO/2014-2017](https://www.facebook.com/groups/310345475799027)
+* [FMI 2015](https://www.facebook.com/groups/fmi.ub.2015/)
+* [FMI-UB/INFO 2015-2018](https://www.facebook.com/groups/1662350980651951/)
