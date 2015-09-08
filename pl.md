@@ -6,6 +6,7 @@ https://www.facebook.com/programaredeclarativa
 
 ## Exemple examen
 
+* 06.09.2015 grupa 234 - Unicitatea Algebrei Libere pagina 10 jos și punctul 11.2 de la pagina 31 (suportul de curs mic)
 * 14.06.2015 grupa 234 via Dayanna Amegica
 
 > 1. Definitii echivalente ale congruentei semantice (+ o definitie informala). Rolul in Maude. Congruenta semantica e inclusa in orice multime inchisa la substitutie (demonstratie) .
