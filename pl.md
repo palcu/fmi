@@ -6,6 +6,7 @@ https://www.facebook.com/programaredeclarativa
 
 ## Exemple examen
 
+* 08.09.2015 grupa 233/232 - 1) Initialitatea arborilor de derivare + definitii aferente și 2) Confluenta si intalnire
 * 06.09.2015 grupa 234 - Unicitatea Algebrei Libere pagina 10 jos și punctul 11.2 de la pagina 31 (suportul de curs mic)
 * 14.06.2015 grupa 234 via Dayanna Amegica
 
