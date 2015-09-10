@@ -13,6 +13,7 @@
 
 - https://www.dropbox.com/sh/etl0tvx4c8j1mfx/AABhgF2SL9u_obSUSILSEvqea?dl=0
 - [restanta vara 2015](https://www.dropbox.com/s/jt60ckh38ttb3ew/restanta_algebra2_vara_2015.jpg?dl=0)
+- [restanta toamna 08.09.2015](https://goo.gl/photos/459x63Cydrtnb95n7) (materia nouă fără Jordan)
 
 ## Consultație înainte de examen 07.09.2015
 
