@@ -7,6 +7,7 @@ https://www.facebook.com/programaredeclarativa
 ## Exemple examen
 
 * 16.09.2015 grupa 234/244 - 1. Proiectivitatea alg libere si 2. (Nu mai stiu sigur) Comparatie intre Sub, Rew, SRew. Corectitudinea gamma-rescrierii...congruenta semantica. (via Cristina Oană)
+* 11.09.2015  1. Proprietatea de univ a multimii si algebrei cat - def, enunt, dem 2. Intalnirea prin rescriere e inchisa la sub. Completitudinea intalnirii prin rescriere fata de congruenta semantica - def sub, enunt si dem pt cele 2 (via Cristina Oană)
 * 08.09.2015 grupa 233/232 - 1) Initialitatea arborilor de derivare + definitii aferente și 2) Confluenta si intalnire
 * 06.09.2015 grupa 234 - Unicitatea Algebrei Libere pagina 10 jos și punctul 11.2 de la pagina 31 (suportul de curs mic)
 * 14.06.2015 grupa 234 via Dayanna Amegica
