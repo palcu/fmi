@@ -3,6 +3,12 @@
 - Tot [folderul](https://www.dropbox.com/sh/77adtx8z6bd1unl/AACX0ZPww_hMLRA5WwvPebZja?dl=0) de subiecte via Laura Raileanu.
 - [Drive-ul](https://drive.google.com/drive/u/0/#folders/0BxRj4XfPJFryQWNzaWFtQnNXbVE/0BxRj4XfPJFrybWxTVTk2RVFNSms/0BxRj4XfPJFryY01ialBUQU9jTXM) lui Stefan Niculae
 
+### Examen 19.09.2015
+
+[Barem de corectare](https://goo.gl/photos/bJnPYmdjARrj9kiY8).
+
+@palcu: am observat ca puncteaza foarte mult pe lucruri pe care eu le ignoram si le consideram banale, gen sa arat ca intai functia de sub integrala e continua si apoi sa integrez.
+
 ### Subiecte 08.09.2015
 
 [Teorie](https://www.dropbox.com/s/mvtkzhj995kbmxg/analiza2_08_09_2015_1.jpg?dl=0) si [exercitii](https://www.dropbox.com/s/dg80svtw21csp4t/analiza2_08_09_2015_2.jpg?dl=0).
