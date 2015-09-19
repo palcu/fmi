@@ -2,8 +2,7 @@
 
 ## Cursuri
 
-* [Curs 2014 PDF-uri Mincu](https://www.dropbox.com/sh/03kgo5pwmnj6v63/AACG3WcS6MKTuTGD_9-49oFPa?dl=0)
-* [Curs 2013](https://www.dropbox.com/s/93lzpo1xzcgdyhw/cursuri.zip?dl=0). Mi se pare ca imi lipsesc niste PDF-uri din 2014.
+* [Curs 2014](https://www.dropbox.com/sh/fo5s96jib14kdeo/AAC-1zsFnQoiOibmf0ClDWpAa?dl=0)
 * [Lista lucruri de învățat](https://www.dropbox.com/s/na5hnrma19aga3n/lista_de_invatat.pdf?dl=0)
 * [Seminarii](https://www.dropbox.com/s/rjxl3vhif32o8u9/seminarii.zip?dl=0) - găsite de Alex Petrache pe net
 
