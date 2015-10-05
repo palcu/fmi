@@ -12,3 +12,7 @@
 3.Definitia curentului maximal parametrizat;Diferentiabilitatea sol. in raport cu parametrii;O ecuatie in care la final iti cere sa gasesti D2fi(. , lambda) (Sunt facute la seminar modele de genul).
 4.Problema la limita a fost asemanatoare (daca nu chiar la fel) cu problema la limita prezentata in cartea dl prof. drept exemplu .
 ```
+
+## Alte resurse
+
+http://lewis500.github.io/diffeq/
