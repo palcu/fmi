@@ -1,4 +1,4 @@
-# Ecuatii Diferentiale
+# Ecuatii Diferentiale și Derivate Parțiale
 
 ##Cernea
 
@@ -15,10 +15,15 @@
 4.Problema la limita a fost asemanatoare (daca nu chiar la fel) cu problema la limita prezentata in cartea dl prof. drept exemplu .
 ```
 
-##Munteanu
+## Iuliana Munteanu
+
 Cursul predat la seria 34 se gaseste [aici](http://vladionescu.me/eccurs.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Curs).md). Fisierul teoretic va fi pastrat la curent, dar nu garantez nimic. Sunteti incurajati sa trimiteti teme/cursuri/etc.
 
 Seminarul de la 343 se gaseste online [aici](http://vladionescu.me/ecseminar.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Seminar).md). Fisierul teoretic va fi pastrat la curent, dar nu garantez nimic. Sunteti incurajati sa trimiteti teme/seminarii/etc.
+
+### Subiecte de examen
+
+[2013, 2014 si 2016](https://www.dropbox.com/sh/nk7s9buf21yok52/AADQO2DTE1JE6Ue0dfTVo14Va?dl=0)
 
 ## Alte resurse
 
