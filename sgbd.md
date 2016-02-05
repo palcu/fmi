@@ -67,6 +67,7 @@ Exercitii:
   - numele sponsorilor care au sustinut prezentarea respectiva;
   - procentul corespunzator sponsorului din totalul finantarilor pe care le-a efectuat;
   - numarul sponsorizarilor pentru acea prezentare.
+
 Sa se apeleze subprogramul. (3.5p)
 
 2. Se presupune ca aplicatia nu va permite ca o sponsorizare pentru o prezentare din Paris sa fie mai mica decat 2000. Implementati aceasta regula. Testati. (2p)
