@@ -17,9 +17,11 @@
 
 ## Iuliana Munteanu
 
-Cursul predat la seria 34 se gaseste [aici](http://vladionescu.me/eccurs.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Curs).md). Fisierul teoretic va fi pastrat la curent, dar nu garantez nimic. Sunteti incurajati sa trimiteti teme/cursuri/etc.
+Cursul predat la seria 34 se gaseste [aici](https://vladionescu.me/eccurs.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Curs).md). Fisierul **NU ESTE COMPLET**. Sunteti incurajati sa trimiteti continuarea/teme/cursuri/etc.
 
-Seminarul de la 343 se gaseste online [aici](http://vladionescu.me/ecseminar.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Seminar).md). Fisierul teoretic va fi pastrat la curent, dar nu garantez nimic. Sunteti incurajati sa trimiteti teme/seminarii/etc.
+Seminarul de la 343 se gaseste online [aici](https://vladionescu.me/ecseminar.html) cu sursa [aici](https://raw.githubusercontent.com/Vlaaaaaaad/FMI-public-materials/master/EcuatiiDiferentialeSiCuDerivatePartiale/EcuatiiDiferentialeSiCuDerivatePartiale(Seminar).md). Fisierul **NU ESTE COMPLET**. Sunteti incurajati sa trimiteti continuarea/teme/cursuri/etc.
+
+Un rezumat al teoriei se gaseste [aici](https://vladionescu.me/ecuatii.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/EcuatiiDiferentialeSiCuDerivatePartiale/rezumat.md).
 
 ### Subiecte de examen
 
