@@ -1,4 +1,4 @@
-# Sisteme de Gestiune a Bazelor de Date
+# Sisteme de Gestiune a Bazelor de Date - prof Velcescu
 
 O arhiva [mare cu chestii](https://www.dropbox.com/sh/wozcxaz1u7c90tg/AABZEuDF2SdWs4ROjFU6WveNa?dl=0). Nu am rabdare sa le selectez ca mi se pare de căcat materia și nu am de gând să învăț.
 
