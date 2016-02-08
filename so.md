@@ -1,5 +1,14 @@
 # Sisteme de Operare - Andrei Baranga
 
+## Grupa 235 (08.02.2016) via Ciprian Olariu
+
+1. Dati signatura apelului de sistem care blocheaza/deblocheaza portiuni de fisiere.
+2. Numiti teoria matematica care sta in spatele detectiei situatiei de deadlock.
+3. Numiti algoritmul folosit in UNIX pentru planificare proceselor.
+4. Numiti o tehnica de inlocuire a paginilor din memorie.
+5. Scrieti o functie int myFunct(char *fis, int m, int *n) care deschide fisierul BINAR cu numele fis si citeste de la pozitia m din fisier *n valori intregi. Functia va calcula minimul dintre aceste valori si il va returna. In caz de eroare, in pointerul *n se va stoca valoarea -1, altfel 0.
+6. Scrieti o functie int myFunct(char *fis) care deschide fisierul BINAR cu numele fis si dintre numerele intregi din el le va sterge pe cele de valoare maxima. Functia intoarce -1 in caz de eroare, alfel 0. Este permisa folosirea unui fisier auxiliar (care sa nu existe deja in director si care sa fie sters inainte de return), dar nu este permisa maparea fisierului in memorie.
+
 ## Seria 23 restanță 06.02.2015
 
 1. Numiți o extensie de arhive.
