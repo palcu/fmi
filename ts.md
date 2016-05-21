@@ -1,8 +1,13 @@
-#Tehnici de Simulare
+# Tehnici de Simulare
 
-##Suter
+## Mogoș Roman Bianca
 
-###Examen
+- cursurile erau pe Moodle
+- [exemplu de examen](https://www.dropbox.com/s/yrhtx7ctywdxr7w/ts.pdf?dl=0) via Dayanna Amegica
+
+## Florentina Suter
+
+### Examen
 
 1. Sa se dea 2 algoritmi de generare pentru variabila aleatoare X cu denistatea de repartitie
 ![ex1](http://www.sciweavers.org/tex2img.php?eq=%5Cbegin%7Bcases%7Df%28x%29%20%3D%20%5Cfrac%7B3%20%5Csqrt%5B3%5D%7Bx%7D%7D%7Be%5Ex%20%5CGamma%5Cleft%28%5Cfrac%7B1%7D%7B3%7D%5Cright%29%7D%20%2C%20x%20%3E%200%5C%5C%200%20%2C%20%5Ctext%7Baltfel%7D%5Cend%7Bcases%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\begin{cases}f(x) = \frac{3 \sqrt[3]{x}}{e^x \Gamma\left(\frac{1}{3}\right)} , x > 0\\ 0 , \text{altfel}\end{cases}")
