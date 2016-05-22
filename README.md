@@ -3,6 +3,7 @@
 Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai bune resurse în afară de wiki-ul meu mai sunt:
 
 * https://github.com/aliasbind/Sesiune
+* https://github.com/Vlaaaaaaad/FMI-public-materials
 * http://fmi.is-a-geek.net/ - am făcut și un [mirror](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0) în caz că pică site-ul
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
 * https://drive.google.com/folderview?id=0B0-Ney8GB2GyS2hRcFRQRFpxdlU&u
