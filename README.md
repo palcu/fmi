@@ -17,6 +17,7 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai
 * https://github.com/adrian-budau
 * https://github.com/andrei14vl/
 * https://github.com/rdragos
+* https://github.com/scipianus
 
 # Grupuri Facebook
 
