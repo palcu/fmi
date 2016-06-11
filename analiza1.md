@@ -2,6 +2,11 @@
 
 ## Examen
 
+### Examen 2016 via Florin Elfus
+
+[Nr 1](https://www.dropbox.com/s/81ig29q8bi6o89e/analiza_2016_1.jpg?dl=0)
+[Nr 2](https://www.dropbox.com/s/ae5y0nlqxpf2k7q/analiza_2016_2.jpg?dl=0)
+
 ### Examen 2014 via Ciprian Olariu Grupa 135
 
 ```
@@ -23,6 +28,10 @@ b) sa se demonstreze ca f(x) = f(0) pentru orice x real (pentru orice x irationa
 > la teorie a dat cica "la nr 1: punct izolat, serie convergenta, f contiuna si de dem ca orice f continua e marginita si isi atinge marginile "
 
 Și [problemele](https://www.dropbox.com/s/ahir3m11lctiamu/subiect_2014.jpg?dl=0).
+
+### Examen 2011 via Florin Elfus
+
+https://www.dropbox.com/s/ue8495zfmn5zg7g/analiza_2011_1.jpg?dl=0
 
 ### Model de examen [(2008)](https://groups.yahoo.com/neo/groups/FMI2010/conversations/topics/230)
 
@@ -48,3 +57,4 @@ xn = 2^n * n! / n^n.
 ## Cursuri
 
 - [Curs + seminar (2012)](https://www.dropbox.com/s/a79ly2rdl04mdl4/analizamatematicaanul1sem1.pdf?dl=0)
+- [un deck de Anki cu primele 5 cursuri pentru teorie](https://ankiweb.net/shared/info/1131839499)
