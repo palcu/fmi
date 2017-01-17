@@ -5,6 +5,10 @@
 
 ## Modele examen
 
+### Rezolvări Examene
+
+[via Diana Min](https://github.com/dianamin/rezolvari-tehnici-web)
+
 ### Examene 06.2016 via Ciprian Olariu
 
 - [seria 24 v1.2](https://www.dropbox.com/s/kv1trf323jgbep7/13341930_10204497714601909_1006370279_n.jpg?dl=0)
