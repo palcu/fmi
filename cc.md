@@ -2,6 +2,7 @@
 
 ## Examen
 
+- [rezumat subiecte examen via @dianamin](https://drive.google.com/drive/folders/0B7PBRdEr5pqnZHN6anpmSEZEZGc)
 - [lista subiecte examen (2012)](https://www.dropbox.com/s/9sh5daew5bxn63e/Calculabilitate%20si%20Complexitate%20-%20Lista%20Subiecte%20ianuarie%202012.pdf?dl=0)
 - [lista subiecte examen (2013)](https://www.dropbox.com/s/ainarm3xablhi9l/CC%20subiecte%20teorie.txt?dl=0)
 - [lista subiecte examen Mitrana (2014)](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
