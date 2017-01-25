@@ -20,6 +20,18 @@
 
 ## Subiecte Examen
 
+### Victor Mitrana (2017)
+#### Seria 23 - 233, 234, 235
+* Teorie: Complexitate Timp
+* Practică:  L = {w din {a, b, c}*| numărul de a-uri = 2 * numărul de b-uri = numărul de c-uri}
+  * O mașină Turing care acceptă L în spațiu O(logn)
+  * Numărul de pași pe care îi face mașina de la primul punct
+  * O mașină Turing care acceptă L și care face O(n) pași
+
+#### Seria 24
+* Teorie: Complexitate Timp (da, același subiect)
+* Practică:  O mașină Turing care are ca input x, y și verifică dacă y este o putere a lui x utilizând o singură bandă.
+
 ### Victor Mitrana (2014)
 
 * Teorie: subiectul 5 din [lista lui](https://www.dropbox.com/s/vn91d9yp2m7qhsi/lista_subiecte_2014.txt?dl=0)
