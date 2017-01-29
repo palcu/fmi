@@ -1,5 +1,14 @@
 # Sisteme de Operare - Andrei Baranga
 
+## Grupa 235 (29.01.2017)
+
+1. Enumerați cele 3 mecanisme de comunicare de la IPC System V.
+2. Enumerați două apeluri de sistem pentru gestiunea fișierelor și două apeluri de sistem pentru gestiunea proceselor.
+3. Enumerați 3 componente după arhitectura lui Von Neumann.
+4. Dați signatura apelului de sistem care creează un proces fiu.
+5. Scrieți o funcție int myFunct() care așteaptă terminarea tuturor proceselor fiu și returnează 0 dacă toate procesele s-au terminat normal și -1 altfel.
+6. Scrieți o funcție int myFunct(MYSTRUCT *p, int n) unde MYSTRUCT are două câmpuri - char *nume și int prioritate. Funcția va crea un proces fiu care execută procesul cu prioritatea maximă și returnează pid-ul procesului în caz de succes și -1 în caz de eroare.
+
 ## Grupa 235 (08.02.2016) via Ciprian Olariu
 
 1. Dati signatura apelului de sistem care blocheaza/deblocheaza portiuni de fisiere.
