@@ -10,6 +10,21 @@
 - [model de examen](https://www.dropbox.com/sh/2pr9ofq998vgyq0/AADaMvUwXA_VLOYZBVG8V-1Ua?dl=0) via Iulia Duta
 - [model de examen (2014)](https://plus.google.com/photos/110111587079191484355/albums/6110515967901809441?authkey=CJXl8r34lpHAIw) seria 24 scrise de mine
 
+### Examen seria 23 (2017)
+```
+1. Produs vectorial
+2. a) Scrie ecuațiile a doua drepte care trec prin punctul P(1, 1). Arată configurația din planul dual.
+b) Ai o configurație cu 4 puncte coliniare și cu două drepte care trec prin 2 dintre cele 4 puncte și se intersectează (nu sunt date). Completează configurația astfel încât, în planul dual, configurația să fie aceeași.
+5. Dă exemplu de un poligon din R^2 cu 5 muchii care are exact două triangulări.
+4. Fie 4 puncte A, B, C, D (cu coordonate date) care formează un dreptunghi și notăm cu P centrul cercului circumscris. Fie un punct M.
+a) Care este complexitatea algebrică pentru a verifica dacă M este pe cerc?
+b) Care este complexitatea algebrică pentru a verifica dacă M coincide cu P? Dacă ABCD nu ar fi fost dreptunghi, ar fi fost aceeași complexitate algebrică?
+5. a) Complexitatea timp a algoritmului pentru intersecția segmentelor (pe scurt).
+b) Ce se întâmplă la Graham's Scan dacă alegem originea într-un punct exterior înfășurătorii convexe și sortăm după unghiul polar?
+6. Fie A(1, 1), B(-1, 1), C(-1, -1), D(1, -1), E(alfa, alfa) și F(1, beta) cu alfa și beta din R. Scrie un algoritm care determină numărul de muchii de tip semidreaptă din diagrama Voronoi.
+7. Se dă un poligon din R^2 și un punct Q exterior poligonului. Descrie un algoritm eficient care să determine punctul A al poligonului astfel încât segmentul orientat QA să aibă toate celelalte puncte ale poligonului la stânga.
+```
+
 ### Model Examen seria 23 (2014)
 
 ```
