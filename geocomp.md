@@ -15,7 +15,7 @@
 1. Produs vectorial
 2. a) Scrie ecuațiile a doua drepte care trec prin punctul P(1, 1). Arată configurația din planul dual.
 b) Ai o configurație cu 4 puncte coliniare și cu două drepte care trec prin 2 dintre cele 4 puncte și se intersectează (nu sunt date). Completează configurația astfel încât, în planul dual, configurația să fie aceeași.
-5. Dă exemplu de un poligon din R^2 cu 5 muchii care are exact două triangulări.
+3. Dă exemplu de un poligon din R^2 cu 5 muchii care are exact două triangulări.
 4. Fie 4 puncte A, B, C, D (cu coordonate date) care formează un dreptunghi și notăm cu P centrul cercului circumscris. Fie un punct M.
 a) Care este complexitatea algebrică pentru a verifica dacă M este pe cerc?
 b) Care este complexitatea algebrică pentru a verifica dacă M coincide cu P? Dacă ABCD nu ar fi fost dreptunghi, ar fi fost aceeași complexitate algebrică?
