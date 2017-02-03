@@ -1,5 +1,14 @@
 # Sisteme de Operare - Andrei Baranga
 
+## Grupa 231 (22.01.2017)
+
+1. Sisteme de gestiune a fișierelor în Windows.
+2. Tabele de gestiune a fișierelor.
+3. 4 atribute ale i-nodului.
+4. Arhitecturi multiprocesor.
+5. Scrieți o funcție int myFunct(char *fis, char *info, int m) care suprascrie șirul info în fișierul cu numele dat de fis, începân cu poziția m. Funcția va returna -1 în caz de eroare.
+6. Scrieți o funcție int myFunct(char * *fin, int nr, char *fout) care concatenează conținutul celor nr fișiere date de fin în fișierul cu numele dat de fout. Funcție va returna -1 în caz de eroare.
+
 ## Grupa 235 (29.01.2017)
 
 1. Enumerați cele 3 mecanisme de comunicare de la IPC System V.
