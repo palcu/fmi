@@ -7,6 +7,14 @@
 - [laboratoare](https://www.dropbox.com/sh/9m795e3nn8eh83e/AACG5zBotB5utC61OCdkpZqqa?dl=0) scrise de Dayanna Amegică
 - [Curs 2014](https://www.dropbox.com/s/iwz4iudiys9j0jd/Probabilitati%20si%20statistica.pdf?dl=0) via Iulia Duță
 
+## Subiecte examen 231, 232 (04.02.2017)
+1. Dintr-o urnă cu 2 bile albe și i bile negre se extrag fără revenire 2 bile dintre care cel puțin una e albă. Care e probabilitatea ca și cealaltă bilă să fie albă?
+2. Se aruncă 2 zaruri corecte de 100 de ori. Care e probabilitatea să obținem exact i duble?
+3. Fie X ~ N(m, sigma^2) cu m = 3 și sigma^2 = i. Aflați P(X < 1).
+4. Fie x1 = 1, x2 = 2, x3 = 3, x4 = i + 3. Dacă datele provin dintr-o populație X ~ N(m, sigma^2) cu sigma^2 = 3, aflați intervalul de încredere 99% pentru m.
+5. Dacă datele de mai sus provin dintr-o populație X ~ N(m, sigma^2), aflați intervalul de 95% încredere pentru sigma^2 cu ambele margini finite.
+6. Dacă yk = k, k = {1, 2, 3, 4} și E(Y) = B0 + B1x + B2 x^2, aflați estimările prin metoda celor mai mici pătrate pentru B0, B1, B2.
+
 ## Model de examen (Nazare Karina)
 
 > Am avut ceva foarte banal la probabilitati, iar la statistica... limbi straine (intervale de incredere pt m, parca, si o aporix. de verosimiliate maxima si inca ceva...)! Ni s-a dat fiecaruia cate un nr care desemna valoarea unui parametru intalnit in probleme. La primul exercitiu aveai un caz simplu caruia trebuia sa-i definesti campul de probabilitate si sa operezi pe multimi, la al doilea o repartitie discreta si la al treilea una continua. Oricum, notarea a fost foarte ok si nu trebuie sa va demoralizati. Aveti voie si cu laptopuri; scrieti tot ce vi se pare ca pica pe subiect 
