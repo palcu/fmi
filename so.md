@@ -18,6 +18,15 @@
 5. Scrieți o funcție int myFunct() care așteaptă terminarea tuturor proceselor fiu și returnează 0 dacă toate procesele s-au terminat normal și -1 altfel.
 6. Scrieți o funcție int myFunct(MYSTRUCT *p, int n) unde MYSTRUCT are două câmpuri - char *nume și int prioritate, iar vectorul p are n elemente. Funcția va crea un proces fiu care execută procesul cu prioritatea maximă și returnează pid-ul procesului în caz de succes și -1 în caz de eroare.
 
+## Grupa 233 (05.02.2017)
+
+1. Dați signatura apelului semop.
+2. Numiți algoritmul folosit de UNIX pentru planificarea proceselor.
+3. Enunțați problema celor 5 filosofi.
+4. Care este teoria matematică folosită la deadlock?
+5. Scrieți funcția int myFunct(char *fir, int *val) unde fis este numele unui fișier binar. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
+6. Scrieți funcția int myFunct(char *fir, int *val) unde fis este numele unui fișier ce conține numere întregi separate prin câte un spațiu, până la \n. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
+
 ## Grupa 235 (08.02.2016) via Ciprian Olariu
 
 1. Dati signatura apelului de sistem care blocheaza/deblocheaza portiuni de fisiere.
