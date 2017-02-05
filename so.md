@@ -24,8 +24,8 @@
 2. Numiți algoritmul folosit de UNIX pentru planificarea proceselor.
 3. Enunțați problema celor 5 filosofi.
 4. Care este teoria matematică folosită la deadlock?
-5. Scrieți funcția int myFunct(char *fir, int *val) unde fis este numele unui fișier binar. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
-6. Scrieți funcția int myFunct(char *fir, int *val) unde fis este numele unui fișier ce conține numere întregi separate prin câte un spațiu, până la \n. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
+5. Scrieți funcția int myFunct(char *fis, int *val) unde fis este numele unui fișier binar. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
+6. Scrieți funcția int myFunct(char *fis, int *val) unde fis este numele unui fișier ce conține numere întregi separate prin spații și \n. După apelul funcției, val va conține adresa poziției minimului din fișier. Funcția va returna 0 în caz de succes și -1 în caz de eroare.
 
 ## Grupa 235 (08.02.2016) via Ciprian Olariu
 
