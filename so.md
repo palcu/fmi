@@ -108,6 +108,9 @@ Subiecte SO de azi:
 * [notițe 2013 scris urât](https://www.dropbox.com/s/l6bn0sevg6p6kg6/curs_2013_scris_urat.pdf?dl=0)
 * [notițe 2013 again](https://www.dropbox.com/sh/mume4oo6rc4jhnh/AAClbYH4clSsmug4SXUQWmnWa?dl=0)
 
+## Utile
+* [main-uri cu semafoare, cozi de mesaje, shared memory, semnale, fisiere binare, execl](https://www.dropbox.com/sh/74kwcgg59x57hs7/AACuQDtpFQYNlnNfTqygwSDqa?dl=0)
+
 # Recomandări @palcu
 
 * [cursul de la Poli](http://ocw.cs.pub.ro/courses/so) e mult mai bun dacă vrei să înveți ceva
