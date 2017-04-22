@@ -19,13 +19,13 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). È
 
 # Florentina Hristea
 
-##Teorie
+### Teorie
 
 Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](http://vladionescu.me/ia.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/IA.md).
 
 Seminarul se gaseste online [aici](http://vladionescu.me/seminar.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/seminar.md). Sunt explicate bazele Prolog si sunt facute cateva exercitii.
 
-##Examen
+### Examen
 
 ```
 Examen Hristea IA : (08.06.2015)
