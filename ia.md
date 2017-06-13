@@ -2,8 +2,8 @@
 
 ## Examen
 
-[07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
-[16.06.2016](https://www.dropbox.com/s/46jq1f6ao608nyf/SUBIECTE_IA-2016.pdf?dl=0)
+- [07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
+- [16.06.2016](https://www.dropbox.com/s/46jq1f6ao608nyf/SUBIECTE_IA-2016.pdf?dl=0)
 
 ## Curs
 
