@@ -1,3 +1,7 @@
+# Programare Logică - Denisa Diaconescu
+
+https://sites.google.com/view/pl2017/home
+
 # Programare Logică - Victor Emil Căzănescu
 
 Dacă ai ajuns pe pagina asta și încă faci PL cu VEC și vrei să treci, atunci ai tot respectul meu.
