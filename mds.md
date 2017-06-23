@@ -4,6 +4,14 @@
 - [rezumat online](http://vladionescu.me/mds.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/MetodeDeDezvoltareSoftware) si cheat-sheet pentru examen [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDS.pdf)
 
 
+## Examen seria 24 - 2017
+
+La subiectul de exercitii a dat o tema cu site de internships:
+ - Scrie 5 user stories.
+ - UML cu cel putin 5 clase.
+ - Doua metode de testare in ce limbaj vrei.
+ - Si de refactorizat un cod (aflat si in curs, cel cu dayOfMonth).
+
 ## Recapitulare pentru examen (30.06.2017)
 
 Punctare:
