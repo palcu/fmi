@@ -1,6 +1,6 @@
 # Sisteme de Operare - Andrei Baranga
 
-## Grupa 231 (22.01.2017)
+## Grupa 231 (22.01.2017) via Florentina Ciolacu
 
 1. Sisteme de gestiune a fișierelor în Windows.
 2. Tabele de gestiune a fișierelor.
@@ -18,7 +18,7 @@
 5. Scrieți o funcție int myFunct() care așteaptă terminarea tuturor proceselor fiu și returnează 0 dacă toate procesele s-au terminat normal și -1 altfel.
 6. Scrieți o funcție int myFunct(MYSTRUCT *p, int n) unde MYSTRUCT are două câmpuri - char *nume și int prioritate, iar vectorul p are n elemente. Funcția va crea un proces fiu care execută procesul cu prioritatea maximă și returnează pid-ul procesului în caz de succes și -1 în caz de eroare.
 
-## Grupa 233 (05.02.2017)
+## Grupa 233 (05.02.2017) via Iulia Mustea
 
 1. Dați signatura apelului semop.
 2. Numiți algoritmul folosit de UNIX pentru planificarea proceselor.
