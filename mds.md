@@ -1,7 +1,8 @@
 # Metode de Dezvoltare Software - Alin Ștefănescu
 
 - [curs Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=486)
-- [rezumat online](http://vladionescu.me/mds.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/MetodeDeDezvoltareSoftware) si cheat-sheet pentru examen [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDS.pdf)
+- Cheat sheet pentru examen updatat 2017 [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDSv2.pdf)
+- [rezumat online putin vechi](http://vladionescu.me/mds.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/MetodeDeDezvoltareSoftware) si cheat-sheet vechi pentru examen [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDS.pdf)
 
 
 ## Examen seria 24 - 2017
