@@ -2,6 +2,7 @@
 
 - [curs Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=486)
 - Cheat sheet pentru examen updatat 2017 [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDSv2.pdf) (©Sonia Horchidan)
+- Alt cheat sheet pentru examen updatat 2017 [aici](https://docs.google.com/document/d/1VTsThbIjGWQITj-vHfzs7tUIwxUMbh7zDpQqnAgapAs/edit?usp=sharing) (©Gabriel Andrei)
 - [rezumat online putin vechi](http://vladionescu.me/mds.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/MetodeDeDezvoltareSoftware) si cheat-sheet vechi pentru examen [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDS.pdf)
 
 
