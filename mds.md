@@ -5,6 +5,14 @@
 - [rezumat online putin vechi](http://vladionescu.me/mds.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/MetodeDeDezvoltareSoftware) si cheat-sheet vechi pentru examen [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/MetodeDeDezvoltareSoftware/MDS.pdf)
 
 
+## Examen seria 23 - 2017
+1. 10 întrebări scurte de teorie
+2. O temă cu un joc
+ - 5 user stories / UML use case
+ - o posibilă arhitectura (o diagramă UML cu 5 clase)
+ - să comentăm o metodă dată și să definim minimal clasele folosite în metodă
+ - să scriem 2 teste (JUnit)
+
 ## Examen seria 24 - 2017
 
 La subiectul de exercitii a dat o tema cu site de internships:
