@@ -23,5 +23,5 @@
 - [subiect](https://www.dropbox.com/s/c1j3s957hm20365/Subiect4-test-laborator.pdf?dl=0) si [rezolvare](https://github.com/palcu/homework/blob/master/bd/test-lab.sql)
 
 ## Examen 26.06.2017
--[teoria](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-REZMMXlLeTNWMTQ/view?usp=sharing) valoreaza 50%
--exercitii SQL valoreaza 25%, testul de laborator valoreaza 25%
+> [teoria](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-REZMMXlLeTNWMTQ/view?usp=sharing) valoreaza 50%
+> exercitii SQL valoreaza 25%, testul de laborator valoreaza 25%
