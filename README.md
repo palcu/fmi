@@ -18,7 +18,7 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox sau Google Drive
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
 * https://drive.google.com/folderview?id=0B0-Ney8GB2GyS2hRcFRQRFpxdlU&u
 
-# Unde găsesc teme?
+## Unde găsesc teme?
 
 * https://github.com/palcu/homework
 * https://github.com/kitz99
