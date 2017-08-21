@@ -10,11 +10,15 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox sau Google Drive
 * [Ioana Chitic](https://github.com/kitty1592)
 * [Vlad Ionescu](https://github.com/Vlaaaaaaad)
 
+## Anunț umanitar
+
+Dacă ți-a fost util cel e în repo-ul ăsta probabil știi să programezi. Dacă știi să programezi, e posibil să poți trece un interviu la Google. Dacă crezi că poți face asta și ți-ar plăcea să lucrezi în Google, atunci trimite-mi un email 😉.
+
 ## Alte resurse
 
 * https://github.com/aliasbind/Sesiune
 * https://github.com/Vlaaaaaaad/FMI-public-materials
-* http://fmi.is-a-geek.net/ - din nefericire a picat, dar am facut un [mirror](http://fmi.is-a-geek.palcu.ro/). Am și o arhivă salvată [cu el](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0)
+* http://fmi.is-a-geek.net/ - din nefericire a picat, dar am facut un [mirror](http://fmi.is-a-geek.palcu.ro/). Am și o arhivă salvată [cu el](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0).
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
 * https://drive.google.com/folderview?id=0B0-Ney8GB2GyS2hRcFRQRFpxdlU&u
 
@@ -28,10 +32,6 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox sau Google Drive
 * https://github.com/andrei14vl/
 * https://github.com/rdragos
 * https://github.com/scipianus
-
-## Anunț umanitar
-
-Dacă ți-a fost util cel e în repo-ul ăsta probabil știi să programezi. Dacă știi să programezi, e posibil să poți trece un interviu la Google. Dacă crezi că poți face asta și ți-ar plăcea să lucrezi în Google, atunci trimite-mi un email 😉.
 
 ## Grupuri pe Facebook
 
