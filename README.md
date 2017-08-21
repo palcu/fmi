@@ -1,6 +1,16 @@
 # Listă de cursuri, seminarii și modele de examen pentru Facultatea de Matematică și Informatică
 
-Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai bune resurse în afară de wiki-ul meu mai sunt:
+Toate linkurile sunt funcționale și vor fi hostate pe Dropbox sau Google Drive.
+
+## Alți contribuitori de-a lungul timpului (ordine alfabetică 😊)
+
+* [Ciprian Olariu](https://github.com/scipianus)
+* [Diana Ghinea](https://github.com/dianamin)
+* [Eric Stavarache](https://github.com/ericpts)
+* [Ioana Chitic](https://github.com/kitty1592)
+* [Vlad Ionescu](https://github.com/Vlaaaaaaad)
+
+## Alte resurse
 
 * https://github.com/aliasbind/Sesiune
 * https://github.com/Vlaaaaaaad/FMI-public-materials
@@ -19,7 +29,11 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox-ul meu. Cele mai
 * https://github.com/rdragos
 * https://github.com/scipianus
 
-# Grupuri Facebook
+## Anunț umanitar
+
+Dacă ți-a fost util cel e în repo-ul ăsta probabil știi să programezi. Dacă știi să programezi, e posibil să poți trece un interviu la Google. Dacă crezi că poți face asta și ți-ar plăcea să lucrezi în Google, atunci trimite-mi un email 😉.
+
+## Grupuri pe Facebook
 
 Majoritatea subiectelor și materialelor au fost adunate de pe diferite grupuri publice:
 
