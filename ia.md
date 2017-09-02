@@ -46,3 +46,13 @@ Examen Hristea IA : (09.06.2015)
 
 2. Exercitii pe care nu mi le amintesc.
 ```
+
+```
+Examen Hristea IA: (01.09.2017)
+1. Alpha-Beta Retezare: Descriere predicate principale + implementare Prolog
+2. Reguli if-then (cu ceva exemple Prolog)
+3. O lista cu numere, sa se arate cate dintre ele sunt duplicate consecutiv:
+ ex: [1, 2, 3, 3, 4, 5, 5, 6] = 2
+4. De ales dintre 2 exercitii, unul cu arbori (sa se spuna cate elemente sunt pe nivelul N al unui arbore), iar celalalt cu matrice (nu-mi amintesc exact)
+5. Ceva legat de 8-puzzle
+```
