@@ -12,7 +12,7 @@ Toate linkurile sunt funcționale și vor fi hostate pe Dropbox sau Google Drive
 
 ## Anunț umanitar
 
-Dacă ți-a fost util cel e în repo-ul ăsta probabil știi să programezi. Dacă știi să programezi, e posibil să poți trece un interviu la Google. Dacă crezi că poți face asta și ți-ar plăcea să lucrezi în Google, atunci trimite-mi un email 😉.
+Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi. Dacă știi să programezi, e posibil să poți trece un interviu la Google. Dacă crezi că poți face asta și ți-ar plăcea să lucrezi în Google, atunci trimite-mi un email 😉.
 
 ## Alte resurse
 
