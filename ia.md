@@ -4,7 +4,7 @@
 
 - [07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
 - [16.06.2016](https://www.dropbox.com/s/46jq1f6ao608nyf/SUBIECTE_IA-2016.pdf?dl=0)
-- [04.09.2017] (https://drive.google.com/drive/u/0/folders/0Bx7Xl3-g3yZ-Sk00QzJoYl9QRFk) Primele doua subiecte identice cu cele de la numarul 1 de aici, la ultimul exercitiu a modificat reteaua (N) si a cerut algoritmul backprop varianta "online"
+- [04.09.2017](https://drive.google.com/drive/u/0/folders/0Bx7Xl3-g3yZ-Sk00QzJoYl9QRFk) Primele doua subiecte identice cu cele de la numarul 1 de aici, la ultimul exercitiu a modificat reteaua (N) si a cerut algoritmul backprop varianta "online"
 ## Curs
 
 Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile, că ai voie cu ele la examen.
