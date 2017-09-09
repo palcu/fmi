@@ -9,6 +9,9 @@
 
 [via Diana Min](https://github.com/dianamin/rezolvari-tehnici-web)
 
+###Materiale
+[Arhiva cu materiale](https://drive.google.com/drive/folders/0Bx7Xl3-g3yZ-SmN1Z2dUYmIzeVk?usp=sharing)
+
 ### Examene 06.2016 via Ciprian Olariu
 
 - [seria 24 v1.2](https://www.dropbox.com/s/kv1trf323jgbep7/13341930_10204497714601909_1006370279_n.jpg?dl=0)
