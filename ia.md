@@ -7,7 +7,7 @@
 - [04.09.2017](https://drive.google.com/drive/u/0/folders/0Bx7Xl3-g3yZ-Sk00QzJoYl9QRFk) Primele doua subiecte identice cu cele de la numarul 1 de aici, la ultimul exercitiu a modificat reteaua (N) si a cerut algoritmul backprop varianta "online"
 ## Curs
 
-Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile, că ai voie cu ele la examen.
+Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile. La examen ai voie cu un rezumat de 5 pagini al cursului, a insistat sa nu fie fotocopiat de la alti colegi si sa fie individual. 
 
 ### Teorie
 [Aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-X2hnQUtyQktlNWs) un link cu materiale complete (rezumat teorie, seminarii, laboratoare rezolvate, teste de laborator rezolvate, cursuri) din 2017. 
