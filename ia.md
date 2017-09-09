@@ -9,6 +9,9 @@
 
 Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile, că ai voie cu ele la examen.
 
+### Teorie
+[Aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-X2hnQUtyQktlNWs) un link cu materiale complete (rezumat teorie, seminarii, laboratoare rezolvate, teste de laborator rezolvate, cursuri) din 2017. 
+
 ### Teste dupa curs
 
 - [matrice de confuzie](https://www.dropbox.com/s/03dsk3n9n228p3v/IMG_20150316_153321.jpg?dl=0)
@@ -21,7 +24,6 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). �
 # Florentina Hristea
 
 ### Teorie
-[Aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-X2hnQUtyQktlNWs) un link cu materiale complete (rezumat teorie, seminarii, laboratoare rezolvate, teste de laborator rezolvate, cursuri) din 2017. 
 
 Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](http://vladionescu.me/ia.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/IA.md).
 
