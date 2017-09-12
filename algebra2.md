@@ -11,7 +11,8 @@
 
 ## Modele Subiecte
 
-- https://www.dropbox.com/sh/etl0tvx4c8j1mfx/AABhgF2SL9u_obSUSILSEvqea?dl=0
+- [restanta toamna 2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-cS11QnRRR0lKckU/view?usp=sharing)
+- [examen seria 14](https://www.dropbox.com/sh/etl0tvx4c8j1mfx/AABhgF2SL9u_obSUSILSEvqea?dl=0)
 - [restanta vara 2015](https://www.dropbox.com/s/jt60ckh38ttb3ew/restanta_algebra2_vara_2015.jpg?dl=0)
 - [restanta toamna 08.09.2015](https://goo.gl/photos/459x63Cydrtnb95n7) (materia nouă fără Jordan)
 
