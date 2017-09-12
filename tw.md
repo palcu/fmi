@@ -13,6 +13,10 @@
 
 [Arhiva cu materiale](https://drive.google.com/drive/folders/0Bx7Xl3-g3yZ-SmN1Z2dUYmIzeVk?usp=sharing)
 
+### Examene 2017 
+- [seria 23 v1.2](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-bG5UZjlNWkhpdWM/view?usp=sharing)
+- [restanta 12.09.2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-R3B4ZUw5ZkpEREk/view?usp=sharing)
+
 ### Examene 06.2016 via Ciprian Olariu
 
 - [seria 24 v1.2](https://www.dropbox.com/s/kv1trf323jgbep7/13341930_10204497714601909_1006370279_n.jpg?dl=0)
