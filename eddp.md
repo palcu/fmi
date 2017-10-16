@@ -1,6 +1,8 @@
 # Ecuatii Diferentiale și Derivate Parțiale
 
-##Cernea
+## Cernea
+
+Cursul si seminarul predat de dl profesor Cernea in 2017/2018 se gaseste [aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-NkFZTDc2bG1uTG8). Nu este inca complet.
 
 ### Subiecte
 
