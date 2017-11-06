@@ -4,3 +4,4 @@
 
 Niste materiale pentru examen si pentru laborator se gasesc si [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/tree/master/ProgramareDeclarativa).
 
+O carte fancy din bibliografia cursului poate fi găsită [aici](http://learnyouahaskell.com/learnyouahaskell.pdf).
