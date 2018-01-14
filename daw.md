@@ -1,4 +1,4 @@
-# Dezvoltarea Aplciatiilor Web - Radu Ionescu
+# Dezvoltarea Aplicatiilor Web - Radu Ionescu
 
 ## Subiecte
 
