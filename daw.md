@@ -1,8 +1,8 @@
-#Dezvoltarea Aplciatiilor Web - Radu Ionescu
+# Dezvoltarea Aplciatiilor Web - Radu Ionescu
 
-##Subiecte
+## Subiecte
 
-###343 - 18.01.2015
+### 343 - 18.01.2015
 
 ```
 1. (1 p)
@@ -50,7 +50,7 @@ Note:
 
 ```
 
-###mai vechi
+### mai vechi
 
 ```
 1) Creati o baza de date care sa contina:
