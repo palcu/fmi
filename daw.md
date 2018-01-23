@@ -2,6 +2,108 @@
 
 ## Subiecte
 
+### 332 - iarna 2018
+
+```
+1. (1 p)
+   Sa se creeze o baza de date cu informatii despre sportivii participanti la Jocurile Olimpice de Iarna de la Pyeongchang. 
+   Baza de date contine urmatoarele doua tabele:
+   
+   + Proba:
+	- IDProba - int - id-ul probei (cheie primara)
+	- Denumire - varchar - denumirea probei
+	- Data - date - data la care are loc proba
+	
+   + Sportiv:
+	- IDSportiv - int - id-ul sportivului (cheie primara)
+	- Nume - varchar - numele sportivului
+	- Prenume - varchar - prenumele sportivului
+	- Tara - varchar - tara din care provine sportivul
+	- DataNasterii - date - data nasterii sportivului
+	- IDProba - int - proba la care participa sportivul (cheie externa)
+	
+   Creati cele doua tabele si adaugati cateva inregistrari (4-5  in fiecare tabel) folosind IDE-ul.
+    
+2. (4 p)
+   Creati o aplicatie web care implementeaza cele 4 operatii fundamentale (Create, Read, Update, Delete) pe entitatea Sportiv
+	Create (1 p) - Creeaza (insereaza) un nou sportiv;
+	Read   (1 p) - Listeaza sportivii (impreuna cu denumirea probei la care participa);
+	Update (1 p) - Actualizeaza informatiile despre un sportiv;
+	Delete (1 p) - Sterge un sportiv.
+
+   Nota: Pentru operatiile Create/Update/Delete nu se accepta folosirea controalelor de tipul GridView, FormView, DetailsView, cu exceptia situatiei cand puneti
+   hyperlink-uri catre paginile de Create/Update/Delete.
+
+3. (1 p)
+   Asigurati-va, la fiecare pas, de validitatea datelor de intrare, folosind controalele de validare astfel incat sa fie respectate tipurile din baza de date.
+   
+5. (2 p)
+   Integrati in aplicatie facilitatea de cautare a sportivilor. Acestia vor putea fi cautati dupa nume, tara si dupa proba la care participa. 
+   In cazul specificarii tuturor campurilor se va folosi operatorul AND.
+   
+4. (1 p)
+   Folositi un masterpage cu un meniu pentru accesarea facila a paginilor aplicatiei web.
+
+Note:
+	- Atentie la restrictiile de integritate si referentialitate ale bazei de date (chei primare, chei externe, campuri NOT NULL)!
+	- Timp de lucru: 1 ora si 20 minute.
+	- Se acorda 1 punct din oficiu.
+```
+
+### 333 - iarna 2018
+
+```
+1. (1 p)
+   Sa se creeze o baza de date cu informatii despre albumele muzicale disponibile intr-o librarie.
+   Baza de date contine urmatoarele doua tabele:
+
+   + Artist:
+	- IDArtist - int - id-ul artistului (cheie primara)
+	- Nume - varchar - numele artistului/trupei
+	- AnDebut - int - anul in care a debutat artist
+
+   + Album:
+	- IDAlbum - int - id-ul albumului (cheie primara)
+	- IDArtist - int - id-ul artistului caruia ii apartine albumul (cheie externa)
+	- TitluAlbum - varchar - titlul albumului
+	- DataAparitie - date - data in care a fost lansat albumul
+	- GenMuzical - varchar - genul muzical din care face parte albumul
+	- NrExemplare - int - numarul de exemplare vandute
+
+   Creati cele doua tabele si adaugati cateva inregistrari (4-5) folosind IDE-ul.
+   Creati constrangerile de cheie primara, cheie externa, auto-increment, campuri NOT NULL. 
+
+2. (4 p)
+   Creati o aplicatie web care implementeaza cele 4 operatii fundamentale (Create, Read, Update, Delete) pe entitatea Album:
+	Create (1 p) - Creeaza (insereaza) un nou album;
+	Read   (1 p) - Listeaza albumele (impreuna cu numele artistului autor) in ordinea descrescatoare a numarului de exemplare vandute;
+	Update (1 p) - Actualizeaza informatiile despre un album;
+	Delete (1 p) - Sterge un album.
+
+   Nota: Pentru operatiile Create/Update/Delete nu se accepta folosirea controalelor de tipul GridView, FormView, DetailsView, cu exceptia situatiei cand puneti hyperlink-uri catre paginile de Create/Update/Delete.
+
+3. (1 p)
+   Asigurati-va, la fiecare pas, de validitatea datelor de intrare, folosind controalele de validare astfel incat sa fie respectate tipurile din baza de date.
+
+4. (0.5 p)
+   Folositi un MasterPage cu un meniu pentru accesarea facila a paginilor aplicatiei web.
+
+5. (1 p) 
+   Sa se afiseze un tabel/lista cu numarul total de exemplare vandute de fiecare artist, in ordinea descrescatoare a numarului de exemplare.
+
+6. (1.5 p)
+   Integrati in aplicatie facilitatea de cautare a albumelor. Acestea vor putea fi cautate dupa genul muzical sau dupa numele artistului. In cazul completarii ambelor campuri se va folosi operatorul AND.
+
+Note:
+	- Atentie la restrictiile de integritate si referentialitate ale bazei de date!
+	- Timp de lucru: 1 ora si 20 minute.
+	- Se acorda 1 punct din oficiu.
+
+```
+### Model subiect rezolvat de prof 2018
+
+- [Link](https://drive.google.com/file/d/1dxX6oHleWyJlUbAAL_4nWWFKR_gxDlJq/view?usp=sharing)
+
 ### 343 - 18.01.2015
 
 ```
