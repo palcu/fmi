@@ -17,3 +17,7 @@
 
 3. Sa se dea 2 algoritmi de generare pentru variabila aleatoare X cu functia de probabilitate
 ![ex3_1](http://www.sciweavers.org/tex2img.php?eq=P%28x%20%3D%20x%29%20%3D%20%5Cfrac%7B2%5E3%20%5Ccdot%203%5E5%20%5Ccdot%20%280.25%29%5E4%7D%7B3%5Ex%20%284-x%29%21%20x%21%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="P(x = x) = \frac{2^3 \cdot 3^5 \cdot (0.25)^4}{3^x (4-x)! x!}"), cu x = 0, 1, 2, 3, 4.
+
+## Mintici Octavian (Laborator)
+- [Laboratoare rezolvate](https://drive.google.com/file/d/1IOO4ac37GZpBLHSYXzMWW3cU6goD3giT/view?usp=sharing)
+- [Exemplu test](https://drive.google.com/file/d/1w928a6QZ5eRDAV33xvHoH9-9mpaT0MkV/view?usp=sharing)
