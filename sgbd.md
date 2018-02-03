@@ -8,6 +8,10 @@ O arhiva [mare cu chestii](https://www.dropbox.com/sh/wozcxaz1u7c90tg/AABZEuDF2S
 
 ## Teste de laborator
 
+## 2018
+
+[Varianta 1](https://www.dropbox.com/s/4lgjp6vilbbwxkp/Nr3.pdf?dl=0) si [Varianta 2](https://www.dropbox.com/s/lk0hyrtgo947x8x/Nr4.pdf?dl=0)
+
 ### Unu
 
 Schemele relationale ale modelului folosit sunt:
