@@ -16,6 +16,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 
 ## Alte resurse
 
+* https://github.com/Cllaire/FMI
 * https://github.com/CristinaMihailescu/fmi
 * https://github.com/aliasbind/Sesiune
 * https://github.com/Vlaaaaaaad/FMI-public-materials
