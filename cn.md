@@ -26,3 +26,6 @@ Numarul 2:
 		- polinomul obtinut din MetNDD cu (Xi) echdistante.
 	- Pentru constrirea graficelor continue se va folosi o discretizare cu 100 de noduri.
 
+### Teme laborator
+
+Gasiti rezolvarile in Matlab pe [github eric](https://github.com/ericpts/FMI_Teme/tree/master/CN)
