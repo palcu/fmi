@@ -2,16 +2,17 @@
 
 ## Semestrul 1
 
-> Dat fiind că fiecare student se poate înscrie la maxim 2 opționale într-un an, informațiile următoare cer ajutorul vostru pentru a fi actualizate sau corectare, acolo unde este cazul.
-> Simțiți-vă liberi să adăugați opționale noi în listă sau să aduceți la zi cele deja completate, dacă profesorii sau modul de desfășurare / evaluare s-a modificat între timp.
+> Fiecare student se poate înscrie, deci poate cunoaște detaliile privind doar 2 opționale într-un an. Semnele de întrebare '??' puse mai jos marchează informațiile cu titlu de zvon sau nesiguranță, în timp ce '?' marchează lipsa informației.
+> Puteți adăuga opționale noi în listă sau să aduceți la zi cele deja completate, dacă profesorii sau modul de desfășurare/evaluare s-a modificat între timp.
 
 
 ### 1. Aplicatii web dezvoltate cu Ruby on Rails (2017-2018)
     Profesor :
         - Alexandru Lamba (de la firma Codesilk)
-        - Implicat, răspunde la întrebări, oferă și job-uri în Laravel sau Rails celor interesați la final
+        - oferă job-uri în Laravel sau Rails celor interesați la final
     Desfasurare curs :
-        - cateva cursuri de introducere despre limbajul Ruby (exercitii cu Ruby Koans)
+        - introducere despre limbajul Ruby (exercitii cu Ruby Koans)
+        - prezentarea framework-ului Rails și a modelului MVC
     Evaluare :
         - (test / proiect / teme) se alege la comun acord cu studenții.
         - În principiu iei notă mare dacă se vede că ți-ai bătut un pic capul.
@@ -19,11 +20,11 @@
     Profesor :
         - din industrie
     Desfasurare curs :
-        - câteva cursuri de introducere despre limbajul Python
-        - restul cursurilor despre framework-ul Django
+        - introducere despre limbajul Python
+        - prezentarea framework-ului Django
     Evaluare :
         - s-ar putea sa fie câteva teste intermediare de python??
-        - evaluarea finala se face sub forma de hackathon
+        - evaluarea finala se face sub forma de hackathon??
 ### 3. Cloud Computing (2017-2018)
     Profesor :
         - Kevorchian
@@ -35,7 +36,7 @@
     Profesor :
         - Stupariu Sorin
     Desfasurare curs :
-        - există matematică, dar aplicată
+        - matematica predată este folosită în mod practic
         - OpenGL??
     Evaluare :
         - ?
@@ -43,9 +44,9 @@
     Profesor :
         - Radu Ionescu
     Desfasurare curs :
-        - există matematică, dar aplicată
+        - matematica predată este folosită în mod practic
         - Matlab
-        - proiecte interesante, de genul :
+        - proiecte de genul :
             - transformarea unei imagini într-un mozaic
             - redimensionarea unei imagini prin eliminarea conținutului neimportant (Image Seam Carving)
             - aplicarea unei texturi pe o imagine
@@ -68,11 +69,11 @@
         - Andrei Păun
     Desfășurare curs :
         - scopul cursului este familiarizarea studentului cu domeniul cercetării
-        - multă cultură generală (de exemplu, prima temă pentru acasă : a se vedea filmul XYZ)
-        - se citesc articole ștințifice
-        - se învață LaTeX
+        - cultură generală (de exemplu, prima temă pentru acasă : a se vedea filmul XYZ)
+        - citirea articolelor ștințifice
+        - LaTeX
     Evaluare :
-        - studenții fac referate critice la articole ștințifice din reviste precum Science
+        - studenții fac referate critice la articolele din reviste precum Science
         - studenții țin prezentări orale
 ### 8. Introducere în prelucrarea limbajului natural ( 2018 - 2019)
     Profesor :
@@ -85,7 +86,7 @@
     Profesor :
         - din industrie
     Desfășurare curs :
-        - se continuă conceptele de computer vision de la "Concepte și aplicații în vederea artificială", dar mai concentrat pe partea de rețele neurale
+        - se continuă conceptele de computer vision de la "Concepte și aplicații în vederea artificială", dar cu mai mult accent pus pe rețelele neurale
     Evaluare :
         - ?
 ### 10. Tehnici de programare a aplicațiilor grafice (2017 - 2018)
@@ -101,11 +102,12 @@
     Desfășurare curs :
         - Python (cu numpy, matplotlib)
         - se studiază algoritmi (bazați pe lucrul în echipă a mai multor agenți) care au aplicări în programarea distribuită, clustering, robotică
-        - temele sunt punct de plecare pentru proiectul final
+        - teme de laborator
             - Particle Swarm Optimisation
             - clustering
             - Reynolds (simularea unui stol de păsări)
             - rezolvarea unui labirint cu mai mulți agenți
     Evaluare :
         - Teme (dacă nu le terminați la laborator rămân pentru acasă) + proiect final
-        - se poate alege și un proiect final pe care îl vreți
+        - Proiectul final poate fi ales dintr-o listă cu variante mai avansate ale temelor de laborator, sau poate fi o idee proprie. Alegerea se face în urma unei discuții cu profesoara.
+
