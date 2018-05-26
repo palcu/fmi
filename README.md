@@ -16,6 +16,8 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 
 ## Alte resurse
 
+* https://dec41.user.srcf.net/ Un loc foarte bun de invatat mate, pentru *toate* materile de mate (analize, algebre, eddp, to, cn). via Eric
+
 * https://github.com/Cllaire/FMI
 * https://github.com/CristinaMihailescu/fmi
 * https://github.com/aliasbind/Sesiune
