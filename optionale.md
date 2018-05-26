@@ -41,18 +41,18 @@
     Evaluare :
         - ?
 ### 5. Concepte și aplicații în vederea artificială (2017-2018)
+    Recomandat de Eric!
     Profesor :
-        - Radu Ionescu
+        - Radu Ionescu si Bogdan Alexe
     Desfasurare curs :
-        - matematica predată este folosită în mod practic
-        - Matlab
-        - proiecte de genul :
-            - transformarea unei imagini într-un mozaic
-            - redimensionarea unei imagini prin eliminarea conținutului neimportant (Image Seam Carving)
-            - aplicarea unei texturi pe o imagine
-            - recunoaștere facială??
+        - matematica predată este folosită în mod practic prin proiecte in Matlab
+        - biweekly projects bazate pe landmark papers din computer vision:
+            - transformarea unei imagini într-un mozaic.
+            - redimensionarea unei imagini prin eliminarea conținutului neimportant (Image Seam Carving).
+            - aplicarea unei texturi pe o imagine.
+            - recunoaștere facială.
     Evaluare :
-        - vor fi aproximativ 5 teme de-a lungul semestrului
+        - vor fi 5 proiecte de-a lungul semestrului
         - notarea este destul de lejeră, ai mai multe moduri de a lua o notă mare
 ### 6. Fundamentele rutării (2017 - 2018)
     Profesor :
@@ -84,11 +84,15 @@
         - ?
 ### 9. Învățare automată în arte vizuală (2017 - 2018)
     Profesor :
-        - din industrie
+        - De la Arnia Software: curs de industrie.
     Desfășurare curs :
-        - se continuă conceptele de computer vision de la "Concepte și aplicații în vederea artificială", dar cu mai mult accent pus pe rețelele neurale
+        - nu are legatura cu "Concepte și aplicații în vederea artificială" de pe Sem. 1.
+        - bazat pe TensorFlow.
+        - presupune un workload **foarte mare**: teme saptamanale, proiect de final.
+        - loosely based on [CS231n](http://cs231n.stanford.edu).
+        - acopera o foarte mare arie de Computer Vision: este un bird's eye view peste domeniu.
     Evaluare :
-        - ?
+        - Temele + proiectul.
 ### 10. Tehnici de programare a aplicațiilor grafice (2017 - 2018)
     Profesor :
         - Sorin Stupariu
