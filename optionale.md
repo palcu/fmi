@@ -83,9 +83,11 @@
     Evaluare :
         - ?
 ### 9. Învățare automată în arte vizuală (2017 - 2018)
+        nu este recomandat
     Profesor :
         - De la Arnia Software: curs de industrie.
     Desfășurare curs :
+        - oganizare neserioasa, si lipsa de comunicare din partea profesorilor.
         - nu are legatura cu "Concepte și aplicații în vederea artificială" de pe Sem. 1.
         - bazat pe TensorFlow.
         - presupune un workload **foarte mare**: teme saptamanale, proiect de final.
