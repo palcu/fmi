@@ -98,8 +98,63 @@ Note:
 	- Atentie la restrictiile de integritate si referentialitate ale bazei de date!
 	- Timp de lucru: 1 ora si 20 minute.
 	- Se acorda 1 punct din oficiu.
-
 ```
+
+### 334 - iarna 2018
+```
+1. (1 p)
+   Sa se creeze o baza de date cu informatii despre lucrarile stiintifice publicate la conferinte internationale de catre cercetatori. 
+   Baza de date contine urmatoarele doua tabele:
+   
+   + Conferinta:
+	- IDConferinta - int - id-ul conferintei (cheie primara)
+	- Denumire - varchar - denumirea conferintei, de exemplu CVPR, NIPS, ICML, ICCV
+	- Date - date - data cand se desfasoara conferinta
+	
+   + Lucrare:
+	- IDLucrare - int - id-ul lucrarii (cheie primara)
+	- Autori - varchar - lista autorilor separati prin virgula
+	- Titlu - varchar - titlul lucrarii
+	- Email - varchar - adresa de e-mail a autorului corespondent
+	- NrCitari - int - numarul de citari al lucrarii stiintifice
+	- IDConferinta - int - conferinta la care a fost (sau urmeaza a fi) publicata lucrarea (cheie externa)
+	
+   Creati cele doua tabele si adaugati cateva inregistrari (4-5  in fiecare tabel) folosind IDE-ul.
+
+   Nota: Atentie la restrictiile de integritate si referentialitate ale bazei de date (chei primare, chei externe, campuri NOT NULL)!
+    
+2. (4 p)
+   Creati o aplicatie web care implementeaza cele 4 operatii fundamentale (Create, Read, Update, Delete) pe entitatea Lucrare:
+	Create (1 p) - Creeaza (insereaza) o noua lucrare stiintifica (se va alege o conferinta din cele existente in baza de date);
+	Read   (1 p) - Listeaza lucrarile stiintifice (impreuna cu conferintele unde au fost publicate) in ordinea datei de aparitie;
+	Update (1 p) - Actualizeaza informatiile despre o lucrare stiintifica;
+	Delete (1 p) - Sterge o lucrare stiintifica.
+
+   Nota: Pentru operatiile Create/Update/Delete nu se accepta folosirea controalelor de tipul GridView, FormView, DetailsView, cu 
+   exceptia situatiei cand puneti hyperlink-uri catre paginile de Create/Update/Delete.
+
+3. (1 p)
+   Asigurati-va, la fiecare pas, de validitatea datelor de intrare, folosind controalele de validare astfel incat sa fie respectate 
+   tipurile din baza de date.
+   
+4. (0.5 p)
+   Folositi un masterpage cu un meniu pentru accesarea facila a paginilor aplicatiei web.
+
+5. (1.5 p)
+   Integrati in aplicatie facilitatea de cautare a lucrarilor stiintifice dupa unul din autori sau dupa denumirea conferintei. 
+   In cazul specificarii ambelor campurilor se va folosi operatorul OR.
+
+6. (1 p)
+   Sa se afiseze numarul total de citari pentru fiecare conferinta din baza de date.
+   
+Note:
+	- Timp de lucru: 1 ora si 20 minute.
+	- Se acorda 1 punct din oficiu.
+```
+
+### Template-ul magic al Dianei
+- [Link](https://drive.google.com/file/d/1FkJhpl2a6NEFmTksRohoAZiLEYKp8CiW/view?usp=sharing)
+
 ### Model subiect rezolvat de prof 2018
 
 - [Link](https://drive.google.com/file/d/1dxX6oHleWyJlUbAAL_4nWWFKR_gxDlJq/view?usp=sharing)
