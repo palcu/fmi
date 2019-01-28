@@ -1,5 +1,8 @@
 # Programare Declarativă - Traian Șerbănuță
 
+## 2018-2019
+Test laborator Ianuarie 2019 - [resurse primite in timpul examenului](https://github.com/alexvelea/general/tree/ab2b5ba5f30d33ef521b0487fc2c32365d31e147/FMI/PD/Test%20Laborator%20PD%202019-Jan)
+
 ## 2017-2018
 
 Materialele de la curs + laborator - https://www.dropbox.com/sh/zhc6y4230izd31o/AACUyBUv4k1VefA_eNbVViF3a?dl=0
