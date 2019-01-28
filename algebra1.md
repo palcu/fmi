@@ -1,4 +1,4 @@
-# Algebra - Ion Mincu
+# Algebra - Gabriel Mincu
 
 ## Cursuri
 
@@ -24,6 +24,11 @@ Permutari au fost la exercitii
 Izomorfism, morfism la teorie
 Si ZxZ nu e ciclic de demonstrat
 ```
+
+- subiect examen ianuarie 2019 via Traian Totoc
+1. Grup ciclic si Teorema de structura a grupurilor ciclice. Este Z x C ciclic? Si ceva cu homomorfism de grupuri.
+2. Teorema fundamentala de izomorfism pentru grupuri si de gasit elementele de ordin 32 si 36 in Z640.
+3. Permutare in S15 in care trebuia sa afli sgima^3, sigma^1492, paritatea, inversa si ordinul ei.
 
 ## De unde poti invata
 
