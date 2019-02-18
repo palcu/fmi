@@ -20,6 +20,17 @@
 
 ## Subiecte Examen
 
+### Victor Mitrana (Feb 2019)
+#### Seria 24
+* Teorie: Functii recursive
+* Practica: L = { a^n b^k c^p | k = 2*n, p = n^2, n>0 }
+  * O mașină Turing care acceptă L (punctaj maxim daca are o banda)
+    * banda de input se pune ca a 2a banda aici, deci pt punctaj maxim trebuie fara ea
+    * in general banda de input nu intra la complexitatea de spatiu, dar aici trebuia adaugat si dimensiunea inputului, inclusiv la rezolvarile in O(logN) spatiu aditional fata de cel ocupat de cuvantul de input
+  * Complexitatea spatiu la masina construita la punctul anterior (1 punct)
+  * Complexitatea de timp la masina construita la punctul anterior (2 puncte)
+  * **sidenote**: din cate tin minte masina putea sa aibe orice complexitate de timp/memorie
+
 ### Victor Mitrana (2017)
 #### Seria 23 - 233, 234, 235
 * Teorie: Complexitate Timp
