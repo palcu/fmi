@@ -4,6 +4,16 @@
 
 [Site-ul cursului](https://sites.google.com/site/pascanraisa/calcul-numeric---seriile-33-34)
 
+### Examen Februarie 2019
+[Subiect complet](https://github.com/alexvelea/general/blob/30998a9240f91f0846b451d9fdd1add0bf3292ab/FMI/CN/examen-cn-feb-2019.pdf) (3 foi primite in timpul examenului)
+
+Rezumat subiect:
+> 1. Metoda pozitiei false
+> 2. Diferente finite progresive, regresive si centrale pentru f'(x)
+> 3. Functii Spline cubice
+> 4. Neville
+> 5. Gauss cu pivotare partiala + SubsDesc
+> 6. Functii Spline cubice
 
 ### Examen 2018
 Numarul 1: [foaie 1](https://www.dropbox.com/s/tkn9uicud2auk01/cn_examen_2018_1.jpg?dl=0) si [foaie 2](https://www.dropbox.com/s/dbqxs0kg0umowkj/cn_examen_2018_2.jpg?dl=0) via Iulia Mustea
