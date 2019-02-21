@@ -1,6 +1,6 @@
 # Subiecte Licență
 
-* [Model Lucrare Licenta](https://docs.google.com/document/d/1YuPTVq8nHNe9Ey2J-3kQIYtujG5_Yj_6tR5aIym3jgM/edit?usp=sharing)
+* [Model Lucrare Licenta](https://docs.google.com/document/d/1YuPTVq8nHNe9Ey2J-3kQIYtujG5_Yj_6tR5aIym3jgM/edit?usp=sharing) via Mihai Ghidoveanu (2018)
 * Chestii despre [lucrarea de licență](https://www.dropbox.com/sh/bbc8usleqep4b1j/AABVGLXY6pLRRK_xR9DUxX-ga?dl=0) via Andrei Oprisan
 * [Metodologie 2015](https://www.dropbox.com/sh/cg4h6put5cc5gmf/AAC3dWmQKofKpLLfxTLpjHCwa?dl=0) via Andrei Oprisan
 * [Programa 2015](https://www.dropbox.com/sh/9fp2l9uibvv7uor/AACxfTEeMTUo0ZeYU9wt5m87a?dl=0) via Andrei Oprisan
