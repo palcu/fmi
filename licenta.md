@@ -1,5 +1,6 @@
 # Subiecte Licență
 
+* [Model Lucrare Licenta](https://docs.google.com/document/d/1YuPTVq8nHNe9Ey2J-3kQIYtujG5_Yj_6tR5aIym3jgM/edit?usp=sharing)
 * Chestii despre [lucrarea de licență](https://www.dropbox.com/sh/bbc8usleqep4b1j/AABVGLXY6pLRRK_xR9DUxX-ga?dl=0) via Andrei Oprisan
 * [Metodologie 2015](https://www.dropbox.com/sh/cg4h6put5cc5gmf/AAC3dWmQKofKpLLfxTLpjHCwa?dl=0) via Andrei Oprisan
 * [Programa 2015](https://www.dropbox.com/sh/9fp2l9uibvv7uor/AACxfTEeMTUo0ZeYU9wt5m87a?dl=0) via Andrei Oprisan
@@ -15,12 +16,12 @@ Pentru toate cele de mai jos se vor da anunturi pe site ( de obicei chiar in lun
 4. In a doua jumatate a lui Ianuarie din anul terminal trebuie sa depuneti la secretariat o adeverinta semnata de elev si de profesorul coordonator, cu titlul lucrarii de licenta. Titlul poate fi schimbat ulterior, printr-o alta cerere semnata de catre elev si profesorul coordonator. 
 
 ### Predarea licentei
-3. Lucrarea de licenta (documentul) ar trebui sa fie gata pe la inceputul lunii iunie. Profesorul coordonator trebuie sa faca un referat pe baza lucrarii voastre si sa il trimita la secretariat. Lucrarea se incarca pe software anti-plagiat. 
-4. Lucrarea de licenta (documentul) se va trimite pe mail in prima jumatate a lunii Iunie catre secretariat. Asta va fi versiunea finala a licentei, pe baza careia veti prezenta in ziua sustinerii orale.
-5. Aplicaţia pentru licenţă (proiectul, codul sursa) nu se trimite pe mail. (in 2018) Puteti lucra la aplicatie pana in ziua prezentarii, desi nerecomandat ! (in 2018).
+1. Lucrarea de licenta (documentul) ar trebui sa fie gata pe la inceputul lunii iunie. Profesorul coordonator trebuie sa faca un referat pe baza lucrarii voastre si sa il trimita la secretariat. Lucrarea se incarca pe software anti-plagiat. 
+2. Lucrarea de licenta (documentul) se va trimite pe mail in prima jumatate a lunii Iunie catre secretariat. Asta va fi versiunea finala a licentei, pe baza careia veti prezenta in ziua sustinerii orale.
+3. Aplicaţia pentru licenţă (proiectul, codul sursa) nu se trimite pe mail. (in 2018) Puteti lucra la aplicatie pana in ziua prezentarii, desi nerecomandat ! (in 2018).
 
 ### Prezentarea licentei
-6. Prezentarea consta intr-o prezentare scurta a lucrarii de licenta si apoi un demo al proiectului / aplicatiei. Dureaza cateva minute fiecare, maxim 10 minute in total. 
+1. Prezentarea consta intr-o prezentare scurta a lucrarii de licenta si apoi un demo al proiectului / aplicatiei. Dureaza cateva minute fiecare, maxim 10 minute in total. 
 
 ## Info
 
