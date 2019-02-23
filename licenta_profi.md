@@ -32,7 +32,7 @@
 + Dobrovat Anca
 
 ## Orice
-+ Serbanuta Train
++ Serbanuta Traian
 + Diaconescu Denisa 
 + Alin Stefanescu
 + Boriga Radu
