@@ -10,6 +10,8 @@
 ## [Subiecte examen 23* (08.02.2019)](https://github.com/alexvelea/general/blob/929705983cadd1c4d9eed87ec6627cdffc969160/FMI/PS/examen-ps-8.2.2019.pdf)
 * Fiecare student a primit un numar i cu ajutorul caruia se rezolvau problemele.
 
+## [Subiecte test laborator 2019, seria 23 - Simona Cojocea](https://imgur.com/a/RqtB7AT)
+
 ## Subiecte examen 231, 232 (04.02.2017)
 1. Dintr-o urnă cu 2 bile albe și i bile negre se extrag fără revenire 2 bile dintre care cel puțin una e albă. Care e probabilitatea ca și cealaltă bilă să fie albă?
 2. Se aruncă 2 zaruri corecte de 100 de ori. Care e probabilitatea să obținem exact i duble?
