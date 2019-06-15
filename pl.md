@@ -1,3 +1,7 @@
+# Programare Logică - Ioana Leustean
+* [Subiect test laborator 2019 - seria 23](https://imgur.com/a/dqIOiYf)
+* [Cursuri, seminarii si laboratoare](https://drive.google.com/drive/folders/1OPBI5-q5SnKC7fH9APyEnXU1laHdB8Qr)
+
 # Programare Logică - Denisa Diaconescu
 
 https://sites.google.com/view/pl2017/home
