@@ -3,7 +3,9 @@
 ## 2018-2019
 Test laborator Ianuarie 2019 - [resurse primite in timpul examenului](https://github.com/alexvelea/general/tree/ab2b5ba5f30d33ef521b0487fc2c32365d31e147/FMI/PD/Test%20Laborator%20PD%202019-Jan)
 
-Examen final - 2 puncte - Februarie 2019 - [prog declarativa](https://drive.google.com/file/d/1WMbUSOFsx_9_UYdNodf4t3vovaTYgz9I/view?usp=sharing) 
+Examen final - 2 puncte - Februarie 2019 - [prog declarativa](https://drive.google.com/file/d/1WMbUSOFsx_9_UYdNodf4t3vovaTYgz9I/view?usp=sharing)
+
+Restanta 2 - 7 Iunie 2019 - [prog declarativa](https://drive.google.com/file/d/1cfZunaShoawR_Hx5diWW931VWw_9ydZw/view?usp=sharing)
 
 ## 2017-2018
 
