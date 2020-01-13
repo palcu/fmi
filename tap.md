@@ -1,5 +1,8 @@
 ## Tehnici Avansate de Programare
 
+- [Subiect examen iarna 2020 - Seria 23](https://drive.google.com/open?id=1DovIGjozipwZU1ZxGEtl3lwUeUyBtPzf)
+- [Subiect examen iarna 2020 - Seria 24](https://drive.google.com/open?id=1NuPfdYx9SgZubZNoHrq1VXkXMYxJKuqD)
+
 ## Marinescu-Ghemeci Ruxandra
 
 - [Cursuri, laboratoare Java](https://drive.google.com/drive/folders/0Bx7Xl3-g3yZ-MGc2Q3VibVQxalE?usp=sharing)
