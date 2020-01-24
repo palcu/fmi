@@ -20,6 +20,18 @@
 
 ## Subiecte Examen
 
+### Victor Mitrana (Iarna 2020)
+* Teorie: Funcții recursive / Turing calculabile / calculabile cu programe standard
+  * Definiții ale noțiunilor - Nota 6
+  * Două demonstrații (la alegere) - 2p per demonstrație
+* Practică: Descrieți o mașină Turing care să accepte limbajul
+   L = { a^n | n = k*(k+1)/2, k > 0 }
+  * Rezolvarea corectă - Nota 6
+  * Dacă este deterministă - 1p
+  * Dacă folosește doar o bandă - 1p
+  * Complexitate timp - 1p
+  * Complexitate spațiu - 1p
+
 ### Victor Mitrana (Feb 2019)
 #### Seria 24
 * Teorie: Functii recursive
