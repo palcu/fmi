@@ -2,6 +2,10 @@
 
 ## Subiecte de examen
 
+- [Restanță Băețica Iunie 2020](https://drive.google.com/file/d/1XzVxyXjvAiPa9_4CsmzmBRZE8yGKk3oB/view?usp=sharing)
+
+- [Restanță Mincu Iunie 2020](https://drive.google.com/file/d/1mvWDhoVienFxvyk6eS8KYX3M5Rcjj5UX/view?usp=sharing)
+
 - [Examen Baetica Ianuarie 2020](https://drive.google.com/file/d/1-TXMs35LWfbf9r8j95haOtDcmKzdeWIS/view?usp=sharing)
 
 - [restanta toamna 2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-cS11QnRRR0lKckU/view?usp=sharing)
