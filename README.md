@@ -36,6 +36,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * https://github.com/rdragos
 * https://github.com/scipianus
 * https://github.com/skypper/work/tree/master/teme-facultate
+* https://github.com/mehanix/teme-fmi
 
 ## Grupuri pe Facebook
 
