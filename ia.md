@@ -3,9 +3,9 @@
 ## Examen
 
 - [07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
-- [16.06.2016](https://www.dropbox.com/s/46jq1f6ao608nyf/SUBIECTE_IA-2016.pdf?dl=0)
 - [04.09.2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-STVaWEh6NUZMS3M/view?usp=sharing) Primele doua subiecte identice cu cele de la numarul 1 de aici, la ultimul exercitiu a modificat reteaua (N) si a cerut algoritmul backprop varianta "online"
 - [18.09.2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-NnoyWFQxSGhJQlk/view?usp=sharing)
+
 ## Curs
 
 Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). È˜i [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile. La examen ai voie cu un rezumat de 5 pagini al cursului, a insistat sa nu fie fotocopiat de la alti colegi si sa fie individual. 
@@ -27,8 +27,6 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). È
 ### Teorie
 
 Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](http://vladionescu.me/ia.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/IA.md).
-
-Seminarul se gaseste online [aici](http://vladionescu.me/seminar.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/seminar.md). Sunt explicate bazele Prolog si sunt facute cateva exercitii.
 
 ### Examen
 
