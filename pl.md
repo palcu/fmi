@@ -1,6 +1,15 @@
 # Programare Logică - Ioana Leustean
+* [Examen Ianuarie 2020](https://drive.google.com/file/d/11ZmcsHnXmyM7UFVcZPYY1WnriMbNN6sm/view?usp=sharing)
+* [Examen 2018 ID](https://drive.google.com/open?id=151aiJs4EgqmU8DH5gKeA3XzUMxlLSGPf)
 * [Subiect test laborator 2019 - seria 23](https://imgur.com/a/dqIOiYf)
 * [Cursuri, seminarii si laboratoare](https://drive.google.com/drive/folders/1OPBI5-q5SnKC7fH9APyEnXU1laHdB8Qr)
+
+# Programare Logică - Claudia Mureșan
+* [Examen 2020 Varianta 1](https://drive.google.com/file/d/1ItwjkFNQ676EHklI4G77cIeMcaIz4YMA/view?usp=sharing)
+* [Examen 2020 Varianta 2](https://drive.google.com/file/d/1vG9p7aqGuF15orwVM4ICKFXAUy74G0Wi/view?usp=sharing)
+* [Examen 2020 Varianta 3](https://drive.google.com/file/d/1hA-Q_vpTmYwccLeUZGmIe1JdLH2aLIhE/view?usp=sharing)
+* [Examen 2020 Varianta 4](https://drive.google.com/file/d/1qYZpy4WWX0CR3kyAGDgOliZNbB0-gjmy/view?usp=sharing)
+* [Model Examen 2020](https://drive.google.com/file/d/1A0-kMQJhAZ-tGP39PCpRJbb_Wq8jCRtf/view?usp=sharing)
 
 # Programare Logică - Denisa Diaconescu
 
