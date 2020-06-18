@@ -2,6 +2,7 @@
 
 ## Examen
 
+- [Exerciții rezolvate din diverse examene](https://docs.google.com/document/d/13WX6yz3jVaoXQnxX0Lkii8X939P5BjPZfCSC1dFEbzk/edit?usp=sharing)
 - [Modele de întrebări](https://drive.google.com/open?id=1bcymQm2OgV3-CofPB15mGXkceszfzYIY)
 
 # Inteligență Artificială - Denis Enăchescu
@@ -36,6 +37,8 @@ Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](h
 
 ### Examen
 
+- [Examen Info Seria 23 Iunie 2020](https://drive.google.com/file/d/12ijXj4Oa-dq5Mm420nvgnHBQR_1uMA92/view?usp=sharing)
+- [Examen Info Seria 24 Iunie 2020](https://drive.google.com/file/d/1ecEGznxZwtpNHgD4dUKSAWn-f7gSN8UJ/view?usp=sharing)
 - [Examen Restanță Iunie 2020](https://drive.google.com/file/d/12gi0eGi8TkJVsnzsSPdmG0ckp83MseFN/view?usp=sharing)
 
 ```
