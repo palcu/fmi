@@ -10,6 +10,7 @@
 * [vara 2016](https://drive.google.com/file/d/1cn-NglQHjctMgZCHyCnqGQjwNpHP5Mgx/view?usp=sharing)
 * [vara 2017](https://drive.google.com/file/d/1dgijika10AKadVaHgVc28yjFApTCho9-/view?usp=sharing)
 * [vara 2018](https://drive.google.com/file/d/1PhO5v-ud8EzrhVtnB16QMcaRgQhWCkIq/view?usp=sharing)
+* [vara 2020](https://drive.google.com/file/d/1Ulq8lu9pglVP0i3JTEgw6W_2Oj7sY___/view?usp=sharing)
 
 ## Victor Mitrana
 
