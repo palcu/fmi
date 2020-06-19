@@ -1,6 +1,5 @@
 # Programare Avansata pe Obiecte - Boriga Radu
 ## Materiale
-* [Cursuri 2017](https://www.dropbox.com/s/1rh0e503865i76f/Cursuri_PAO.rar?dl=0)
 * [Surse curs 2019](https://drive.google.com/open?id=1t3qce_zQdRZitwBEDTmOF1v1zDB-UTpQ)
 
 ## Subiecte examen
