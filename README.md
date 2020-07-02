@@ -19,6 +19,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * https://dec41.user.srcf.net/ Un loc foarte bun de invatat mate, pentru *toate* materile de mate (analize, algebre, eddp, to, cn). via Eric
 
 * https://github.com/Cllaire/FMI
+* https://github.com/DLarisa/FMI-Materials
 * https://github.com/CristinaMihailescu/fmi
 * https://github.com/aliasbind/Sesiune
 * https://github.com/Vlaaaaaaad/FMI-public-materials
@@ -28,6 +29,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 ## Unde găsesc teme?
 
 * https://github.com/palcu/homework
+* https://github.com/DLarisa/FMI-Materials
 * https://github.com/kitz99
 * https://github.com/tvararu/
 * https://github.com/aliasbind
