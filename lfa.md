@@ -10,7 +10,9 @@
 * [vara 2016](https://drive.google.com/file/d/1cn-NglQHjctMgZCHyCnqGQjwNpHP5Mgx/view?usp=sharing)
 * [vara 2017](https://drive.google.com/file/d/1dgijika10AKadVaHgVc28yjFApTCho9-/view?usp=sharing)
 * [vara 2018](https://drive.google.com/file/d/1PhO5v-ud8EzrhVtnB16QMcaRgQhWCkIq/view?usp=sharing)
-* [vara 2020](https://drive.google.com/file/d/1Ulq8lu9pglVP0i3JTEgw6W_2Oj7sY___/view?usp=sharing)
+* [vara 2020 - 18 iunie](https://drive.google.com/file/d/1Ulq8lu9pglVP0i3JTEgw6W_2Oj7sY___/view?usp=sharing)
+  * [schiță de rezolvare](https://drive.google.com/file/d/1DYbPas6EhkBTHYWlW9NbZrnaKFEq4xY4/view?usp=sharing) oferită de domnul profesor
+* [vara 2020 - 19 iunie](https://drive.google.com/file/d/1FZLvowrj2-rpA8hA34RlO-u7x5EdGM6E/view?usp=sharing) - variantă dată celor care li se suprapunea data de 18 iunie cu alt examen
 
 ## Victor Mitrana
 
