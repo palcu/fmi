@@ -20,6 +20,10 @@
 
 ## Subiecte Examen
 
+### Victor Mitrana (Toamna 2020)
+* [Restanță](https://drive.google.com/file/d/1_14D02IZGtgVXHqalr6jq2cXQ8X9mB12/view?usp=sharing)
+* [Mărire](https://drive.google.com/file/d/1Im68IU4zNePDW4so11rUaUXKkFnE4uTk/view?usp=sharing)
+
 ### Victor Mitrana (Iarna 2020)
 * Teorie: Funcții recursive / Turing calculabile / calculabile cu programe standard
   * Definiții ale noțiunilor - Nota 6
