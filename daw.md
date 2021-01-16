@@ -1,6 +1,10 @@
-# Dezvoltarea Aplicatiilor Web - Radu Ionescu
+# Dezvoltarea Aplicatiilor Web
 
-## Subiecte
+## Subiecte 2020 - Andrei Sipoș
+
+- [Examen 12 ianuarie](https://drive.google.com/file/d/1PFkMbfh91tWf9gQjapIuvKenrfZjfD26/view?usp=sharing)
+
+## Subiecte 2018 - Radu Ionescu
 
 ### 332 - iarna 2018
 
@@ -159,6 +163,8 @@ Note:
 
 - [Link](https://drive.google.com/file/d/1dxX6oHleWyJlUbAAL_4nWWFKR_gxDlJq/view?usp=sharing)
 
+## Subiecte 2015
+
 ### 343 - 18.01.2015
 
 ```
@@ -207,7 +213,7 @@ Note:
 
 ```
 
-### mai vechi
+## Subiecte mai vechi
 
 ```
 1) Creati o baza de date care sa contina:
