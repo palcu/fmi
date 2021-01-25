@@ -1,18 +1,24 @@
-# Sisteme de Gestiune a Bazelor de Date - Letiția Velcescu
+# Sisteme de Gestiune a Bazelor de Date
+
+## Vasile Silviu Laurențiu
+
+- [Examen 25.01.2021 - Seria 33](https://drive.google.com/file/d/1Vxqe60-gkhWzMCqLQ41BZUANq95LgSkA/view?usp=sharing)
+
+## Letiția Velcescu
 
 O arhiva [mare cu chestii](https://www.dropbox.com/sh/wozcxaz1u7c90tg/AABZEuDF2SdWs4ROjFU6WveNa?dl=0). Nu am rabdare sa le selectez ca mi se pare de căcat materia și nu am de gând să învăț.
 
-## Exemple examen
+### Exemple examen
 
 - [2015-05-07](https://www.dropbox.com/s/eujg4xqpbiamu93/sgbd%202015-05-07%2022.47.26.jpg?dl=0)
 
-## Teste de laborator
+### Teste de laborator
 
-## 2018
+#### 2018
 
 [Varianta 1](https://www.dropbox.com/s/4lgjp6vilbbwxkp/Nr3.pdf?dl=0) si [Varianta 2](https://www.dropbox.com/s/lk0hyrtgo947x8x/Nr4.pdf?dl=0)
 
-### Unu
+#### Unu
 
 Schemele relationale ale modelului folosit sunt:
 
@@ -33,7 +39,7 @@ Exercitii :
 
 
 
-### Doi
+#### Doi
 Schemele relationale ale modelului folosit sunt:
 
 ```
@@ -54,7 +60,7 @@ Exercitii:
 
 
 
-### Trei
+#### Trei
 
 Schemele relationale ale modelului folosit sunt:
 ︎
