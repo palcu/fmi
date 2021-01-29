@@ -4,6 +4,11 @@
 
 [Site-ul cursului](https://sites.google.com/site/pascanraisa/calcul-numeric---seriile-33-34)
 
+### Examen Ianuarie 2021
+
+- [Proba teoretică](https://drive.google.com/file/d/1BpqCwaL161zef01KR0YB-TZi6jen0HJ8/view?usp=sharing)
+- [Proba practică](https://drive.google.com/file/d/1O4MSVyPqfMJkrMvMP8PjtT9ZcIaWRIHc/view?usp=sharing)
+
 ### Examen Februarie 2019
 [Subiect complet](https://github.com/alexvelea/general/blob/30998a9240f91f0846b451d9fdd1add0bf3292ab/FMI/CN/examen-cn-feb-2019.pdf) (3 foi primite in timpul examenului)
 
