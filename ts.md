@@ -7,6 +7,8 @@
 
 ## Florentina Suter
 
+- [Examen seria 33 - mai 2021](https://docs.google.com/document/d/1xXaXY3-LLeWtJ1GMaMD257EmIqQL2gwyZS_HypNwATQ/edit?usp=sharing)
+
 ### Examen
 
 1. Sa se dea 2 algoritmi de generare pentru variabila aleatoare X cu denistatea de repartitie
