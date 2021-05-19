@@ -25,6 +25,9 @@
 
 ## Examen
 
+- [Examen mai 2021](https://drive.google.com/file/d/1vnTQRbgt_tr5yHMCncyZLbhWKXLS3sGs/view?usp=sharing)
+- [Examen mai 2020](https://drive.google.com/file/d/1JHc4qD2V5U6TKxRaet2bDn90oGA2oHkC/view?usp=sharing)
+
 - via Hoinaru Mihai
 
 > 1. Calcule la AES (parola, chei, caractere)
