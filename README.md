@@ -39,6 +39,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * https://github.com/scipianus
 * https://github.com/skypper/work/tree/master/teme-facultate
 * https://github.com/mehanix/teme-fmi
+* https://github.com/DariusBuhai/FMI-Unibuc
 
 ## Grupuri pe Facebook
 
@@ -53,6 +54,8 @@ Majoritatea subiectelor și materialelor au fost adunate de pe diferite grupuri 
 * [FMI 2015](https://www.facebook.com/groups/fmi.ub.2015/)
 * [FMI-UB/INFO 2015-2018](https://www.facebook.com/groups/1662350980651951/)
 * [FMI-UB/INFO 2016-2019](https://www.facebook.com/groups/1744503535826904/?ref=br_rs)
+* [FMI 2019](https://www.facebook.com/groups/570535900117438)
+* [FMI 2020](https://www.facebook.com/groups/1127847707592197)
 
 ## Addendum
 
