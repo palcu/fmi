@@ -30,6 +30,7 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 
 * https://github.com/palcu/homework
 * https://github.com/DLarisa/FMI-Materials
+* https://github.com/danadascalescu00/FMI
 * https://github.com/kitz99
 * https://github.com/tvararu/
 * https://github.com/aliasbind
