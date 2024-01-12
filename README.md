@@ -26,6 +26,10 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * http://fmi.is-a-geek.net/ - din nefericire a picat, dar am facut un [mirror](http://fmi.is-a-geek.palcu.ro/). Am și o arhivă salvată [cu el](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0).
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
 
+CTI Specifice:
+* https://drive.google.com/drive/folders/1rTt_RMBan_w74GjbNmSitqB5UEdLqLz7 - Holy Grail subiecte anul 1 si 2 din 2018-2020
+* https://github.com/lmihaig/facultate - plan de studiu, subiecte de examen si laboratoare rezolvate, teme, proiecte
+
 ## Unde găsesc teme?
 
 * https://github.com/palcu/homework
